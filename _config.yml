@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Shape analysis seminar in Paris, France
+title: Shape analysis research
 email: jean.feydy@inria.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Shape analysis seminar in Paris.
@@ -24,17 +24,16 @@ github_username:  shape-analysis
 
 #theme: jekyll-theme-clean-blog
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+#remote_theme: daviddarnes/alembic
 
 # Build settings
 markdown: kramdown
 permalink: pretty
-paginate: 5
 exclude: ["node_modules"]
 
 name: Shape analysis seminar in Paris
 plugins:
   - jekyll-feed
-  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
