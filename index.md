@@ -2,15 +2,15 @@
 layout: page
 title: "Shape analysis seminar"
 description: "Every month in Paris"
-header-img: "img/paris1.png"
+header-img: "/img/paris1.png"
 ---
 
 <span style="color:red">**Videos for most presentations will be available on YouTube.**</span> 
 
 
 
-This website is the home for the French research community on 3D shape analysis - from medical imaging to computer graphics and computer assisted design.
-We organize an open seminar every three weeks in Paris, and diffuse announcements related to relevant software tools, conferences and job offers.
+This website is the home for the French research community on the **analysis of 3D shapes** - from medical imaging to computer graphics and computer assisted design.
+We organize an **open seminar** every three weeks in Paris and diffuse announcements related to relevant software tools, conferences and job offers.
 
 Please feel free to send an invitation to newcomers in the field (interns, students, engineers...).
 

@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Research on 3D shape analysis, with a monthly seminar in Paris, France
+title: Shape analysis seminar in Paris, France
 email: jean.feydy@inria.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Shape analysis seminar in Paris.
@@ -22,7 +22,8 @@ url: "shape-analysis.github.io" # the base hostname & protocol for your site, e.
 # twitter_username: ...
 github_username:  shape-analysis
 
-theme: jekyll-theme-clean-blog
+#theme: jekyll-theme-clean-blog
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
 # Build settings
 markdown: kramdown
