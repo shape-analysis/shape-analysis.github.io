@@ -1,50 +1,55 @@
 ---
 layout: page
 title: "Shape analysis"
-description: "A research community"
-background: "img/paris1.png"
+description: "Mailing list and seminar"
+background: "img/banner_4.png"
 ---
 
 
-This website (under construction) is home to the French research community on the **analysis of 3D shapes**, from medical imaging to computer graphics and computer assisted design.
+This website is home to the French research community on the **analysis of 3D shapes**, from biomedical imaging to computer assisted design and graphics.
+
 We organize an **open seminar** in Paris and diffuse announcements related to relevant software tools, conferences and job offers.
 
-Please feel free to send an invitation to newcomers in the field (interns, students, engineers...).
+Please feel free to invite newcomers in the field (interns, students, engineers...).
 
-Mailing list
--------------
+### Mailing list
+
 
 To register to **shapes@inria.fr**, please:
 
 1. Send a message with title "**subscribe shapes Your Name**" to **[sympa_inria@inria.fr](mailto:sympa_inria@inria.fr)**.
-2. You will then receive an **invite link**.
-3. <span style="color:red">**Don't forget to click on it**</span>, or you won't be registered as a subscriber!
+2. You will then receive an **invite link**. <span style="color:red">**Don't forget to click on it**</span>, or you won't be registered as a subscriber!
 
+<br/>
 
-Shape seminar
----------------
+### Shape seminar
 
-Every three weeks, we organize
+Every three weeks, we organize an in-person seminar in Paris around noon:
 
-**Registration is free but mandatory [(click here)](http://www.ihp.fr/en/CEB/T1-2019)** to let us order an adequate amount of food for the buffet.
+  - 60mn of informal discussions, followed by a **30mn presentation**.
+  - <span style="color:red">**Free lunch**</span> is provided by Barbara Gris thanks to an Emergence(s) grant of the Ville de Paris.
+  - <span style="color:red">**Videos**</span> for most presentations will be available on YouTube.
+  - <span style="color:red">**Registration**</span> **is free but mandatory [(click here)](https://forms.gle/vCJExSJDWaQiDitY7).**
 
+<br/>
 
-<span style="color:red">**Videos for most presentations will be available on YouTube.**</span> 
-
+<hr>
 {% for oneitem in site.data.seminar %}
-<p>
-   <b>{{ oneitem.date }}</b>, {{ oneitem.time }}.<br/>
-  {{ oneitem.location | markdownify | remove: '<p>' | remove: '</p>' }}<br/>
-  <a href="{{ oneitem.url }}">{{ oneitem.speaker }}</a>  ({{ oneitem.affiliation }})<br/>
-  <b>Title:</b> <i>{{ oneitem.title }}</i><br/>
+   <h5>{{ oneitem.date }} &#8212; {{ oneitem.title }}</h5>
+  <p>
+  <b>Time: </b> {{ oneitem.time }}. <br/>
+  <b>Location:</b> {{ oneitem.location | markdownify | remove: '<p>' | remove: '</p>' }}
+  <div style="margin-bottom:0.5em;"></div> 
+  <b>Speaker:</b> <a href="{{ oneitem.url }}">{{ oneitem.speaker }}</a>  ({{ oneitem.affiliation }}) 
+  <div style="margin-bottom:0.5em;"></div> 
   <b>Abstract:</b> {{ oneitem.abstract | markdownify | remove: '<p>' | remove: '</p>'  }}
   </p>
+  <hr>
 {% endfor %}
 
 
 
-Organizers
------
+### Organizers
 
 - [Barbara Gris](http://gris.perso.math.cnrs.fr/) (CNRS).
 - [Benjamin Charlier](https://imag.umontpellier.fr/~charlier/index.php?page=index) (Université de Montpellier).
@@ -52,8 +57,7 @@ Organizers
 - [Joan Glaunès](https://helios2.mi.parisdescartes.fr/~glaunes/) (Université Paris-Cité).
 
 
-Sponsors
------
+### Sponsors
 
 <p align="center">
 

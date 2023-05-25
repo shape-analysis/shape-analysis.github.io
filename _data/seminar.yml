@@ -1,11 +1,11 @@
 
 - speaker: Louis Pujol
   url: https://louis-pujol.github.io/
-  date: 2 June 2023
-  time: 12.30pm-14.30pm
-  affiliation: HeKA team, Université Paris-Cité
+  date: Friday, 2 June 2023
+  time: 12.30pm
+  affiliation: Université Paris-Cité
   location: >
-    Seminar room of the MAP5 laboratory (7th floor), Campus Saint-Germain-des-Prés, 45 rue des Saints-Pères in Paris - [detailed path](https://map5.mi.parisdescartes.fr/accueil/acces-contact/).
+    Seminar room of the MAP5 laboratory, 45 rue des Saints-Pères in Paris (7th floor) - [detailed path](https://map5.mi.parisdescartes.fr/accueil/acces-contact/).
   title: Two 3D visualization libraries for Python
   abstract: >
-    I will present two modern libraries for visualizing and interacting with 3D shapes, [Pyvista](https://docs.pyvista.org/version/stable/) and [Vedo](https://vedo.embl.es/). The talk will be followed by an informal lab session - feel free to bring your laptop!
+    We will present two modern libraries for visualizing and interacting with 3D shapes, [Pyvista](https://docs.pyvista.org/version/stable/) and [Vedo](https://vedo.embl.es/). The talk will be followed by an informal lab session - feel free to bring your laptop!
