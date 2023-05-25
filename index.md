@@ -47,7 +47,7 @@ Every three weeks, we organize an in-person seminar in Paris around noon:
   <hr>
 {% endfor %}
 
-
+<br/>
 
 ### Organizers
 
