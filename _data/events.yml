@@ -1,0 +1,9 @@
+
+- url: https://pyt-team.github.io/topomodelx/challenge/index.html
+  date: Friday, 28 July 2023
+  location: >
+    ICML 2023, Honolulu, Hawaii
+  title: ICML 2023 Topological Deep Learning Challenge
+  abstract: >
+    The purpose of this challenge is to foster reproducible research in Topological Deep Learning by crowdsourcing the open-source implementation of neural networks on topological domains. Participants are asked to contribute code for a previously existing Topological Neural Network (TNN) and train it on a benchmark dataset.
+    **Deadline for applications** is on July 13th, 2023.
