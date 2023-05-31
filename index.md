@@ -37,7 +37,7 @@ Every three weeks, we organize an in-person seminar in Paris around noon:
 {% for oneitem in site.data.seminar %}
    <h5>{{ oneitem.date }} &#8212; {{ oneitem.title }}</h5>
   <p>
-  <b>Time: </b> {{ oneitem.time }}. <br/>
+  <b>Time: </b> {{ oneitem.time }} <br/>
   <b>Location:</b> {{ oneitem.location | markdownify | remove: '<p>' | remove: '</p>' }}
   <div style="margin-bottom:0.5em;"></div> 
   <b>Speaker:</b> <a href="{{ oneitem.url }}">{{ oneitem.speaker }}</a>  ({{ oneitem.affiliation }}) 
