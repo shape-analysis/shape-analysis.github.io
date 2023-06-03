@@ -26,10 +26,10 @@ To register to **shapes@inria.fr**, please:
 
 Every three weeks, we organize an in-person seminar in Paris around noon:
 
-  - 60mn of informal discussions, followed by a **30mn presentation**.
+  - 60mn of informal discussions, followed by a **60mn presentation**.
   - <span style="color:red">**Free lunch**</span> is provided by Barbara Gris thanks to an Emergence(s) grant of the Ville de Paris.
-  - <span style="color:red">**Videos**</span> for most presentations will be available on YouTube.
-  - <span style="color:red">**Registration**</span> **is free but mandatory [(click here)](https://forms.gle/vCJExSJDWaQiDitY7).**
+  - <span style="color:red">**Videos**</span> for most presentations are available on YouTube [(click here)](https://www.youtube.com/watch?v=m68NjYSD7gU&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp).
+  - <span style="color:red">**Registration**</span> **is free but mandatory [(click here)](https://forms.gle/TaEvgLz6ehT5WqiMA).**
 
 <br/>
 
@@ -43,6 +43,20 @@ Every three weeks, we organize an in-person seminar in Paris around noon:
   <b>Speaker:</b> <a href="{{ oneitem.url }}">{{ oneitem.speaker }}</a>  ({{ oneitem.affiliation }}) 
   <div style="margin-bottom:0.5em;"></div> 
   <b>Abstract:</b> {{ oneitem.abstract | markdownify | remove: '<p>' | remove: '</p>'  }}
+  {% if oneitem.video or oneitem.slides or oneitem.code %}
+   <div style="margin-bottom:0.5em;"></div> 
+   <b>Links:</b> 
+    {% if oneitem.video %}
+      <a href="{{ oneitem.video }}"><span style="color:red"><b>video</b></span></a>
+    {% endif %}
+    {% if oneitem.slides %}
+      <a href="{{ oneitem.slides }}">slides</a> 
+    {% endif %}
+    {% if oneitem.code %}
+      <a href="{{ oneitem.code }}">code</a> 
+    {% endif %}
+     <br/>
+  {% endif %}
   </p>
   <hr>
 {% endfor %}
