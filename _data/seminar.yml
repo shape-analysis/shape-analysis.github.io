@@ -20,6 +20,6 @@
   code: https://github.com/Louis-Pujol/3D_visualization_in_python/tree/main
   location: >
     Seminar room of the MAP5 laboratory, 45 rue des Saints-Pères in Paris (7th floor) - [detailed path](https://map5.mi.parisdescartes.fr/accueil/acces-contact/).
-  title: Two 3D visualization libraries for Python
+  title: Two Python libraries for 3D visualization
   abstract: >
     We will present two modern libraries for visualizing and interacting with 3D shapes, [Pyvista](https://docs.pyvista.org/version/stable/) and [Vedo](https://vedo.embl.es/). The talk will be followed by an informal lab session - feel free to bring your laptop!
