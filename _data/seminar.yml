@@ -1,15 +1,15 @@
-- speaker: François-Xavier Vialard
-  affiliation: Université Gustave Eiffel
-  url: http://angkor.univ-mlv.fr/~vialard/
+- speaker: François-Xavier Vialard (Université Gustave Eiffel) and three other speakers
+  affiliation: 10-15 minutes each
   date: Monday, 26 June 2023
   time: 12.30pm
   location: >
     Inria Paris centre, 2 rue Simone Iff, A building, ground floor, Emmy Noether room (Startup Studio entrance).
   title: Some open mathematical problems
+  registration: https://forms.gle/TaEvgLz6ehT5WqiMA
   abstract: >
     We will present a collection of open mathematical questions
-    related to shape analysis. This discussion will be followed by 
-    short presentations by PhD students.
+    related to shape analysis.
+    
 
 - speaker: Louis Pujol
   affiliation: Université Paris-Cité
