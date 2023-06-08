@@ -36,7 +36,7 @@ Every three weeks, we organize an in-person seminar in Paris around noon:
    <div style="margin-bottom:0.5em;"></div> 
    <b>Links:</b> 
     {% if oneitem.video %}
-      <a href="{{ oneitem.video }}"><span style="color:red"><b>video</b></span></a>
+      <a href="{{ oneitem.video }}"><b>video</b></a>
     {% endif %}
     {% if oneitem.slides %}
       <a href="{{ oneitem.slides }}">slides</a> 
