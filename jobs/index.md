@@ -10,7 +10,8 @@ background: "../img/banner_5.png"
 
 <hr>
 
-<h5>CIFRE PhD &#8212; automatic estimation of body measurements from 3D scans acquired by a smartphone</h5>
+<h5>CIFRE PhD &#8212; automatic estimation of body measurements from 3D scans acquired by a smartphone
+<a id="2023_MyFit_Feydy" /></h5>
 <p>
 <b>Keywords:</b> shape registration, landmark annotation, healthcare.
 <br/>
