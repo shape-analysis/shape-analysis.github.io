@@ -22,18 +22,27 @@ Every three weeks, we organize an in-person seminar in Paris around noon:
   - <a href="https://forms.gle/TaEvgLz6ehT5WqiMA">**Registration**</a> is free but mandatory.
 <br/>
 
-<hr>
 {% for oneitem in site.data.seminar %}
+  {% if oneitem.location %}
+  <hr>
+  {% endif %}
+
    <h5>{{ oneitem.date }} &#8212; {{ oneitem.title }}</h5>
   <p>
+  {% if oneitem.time %}
   <b>Time: </b> {{ oneitem.time }} <br/>
+  {% endif %}
+  {% if oneitem.location %}
   <b>Location:</b> {{ oneitem.location | markdownify | remove: '<p>' | remove: '</p>' }}
-  <div style="margin-bottom:0.5em;"></div> 
+   <br/> <!--<div style="margin-bottom:0.5em;"></div> -->
+  {% endif %}
+
   <b>Speaker:</b> <a href="{{ oneitem.url }}">{{ oneitem.speaker }}</a>  ({{ oneitem.affiliation }}) 
-  <div style="margin-bottom:0.5em;"></div> 
+   <br/><!--<div style="margin-bottom:0.2em;"></div> -->
   <b>Abstract:</b> {{ oneitem.abstract | markdownify | remove: '<p>' | remove: '</p>'  }}
+  
   {% if oneitem.video or oneitem.slides or oneitem.code or oneitem.registration %}
-   <div style="margin-bottom:0.5em;"></div> 
+   <br/><!--<div style="margin-bottom:0.5em;"></div> -->
    <b>Links:</b> 
     {% if oneitem.video %}
       <a href="{{ oneitem.video }}"><b>video</b></a>
@@ -50,8 +59,8 @@ Every three weeks, we organize an in-person seminar in Paris around noon:
      <br/>
   {% endif %}
   </p>
-  <hr>
 {% endfor %}
+<hr>
 
 <br/>
 
