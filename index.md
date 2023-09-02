@@ -18,8 +18,7 @@ Every three weeks, we organize an in-person seminar in Paris around noon:
   - 60mn of informal discussions, followed by a **60mn presentation**.
   - you are welcome to share the free **lunch** we provide.
   - **Videos** for most presentations are available on YouTube [(click here)](https://www.youtube.com/watch?v=m68NjYSD7gU&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp).
-  <!--- <span style="color:red">**[Registration](https://forms.gle/TaEvgLz6ehT5WqiMA)**</span> **is free but mandatory ([click here)](https://forms.gle/TaEvgLz6ehT5WqiMA).**-->
-  - <a href="https://forms.gle/TaEvgLz6ehT5WqiMA">**Registration**</a> is free but mandatory.
+  - <a href="https://forms.gle/RZqN3rjDnh3QYc66A">**Registration**</a> is free but mandatory.
 <br/>
 
 {% for oneitem in site.data.seminar %}
