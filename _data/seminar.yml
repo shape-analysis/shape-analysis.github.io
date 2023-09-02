@@ -1,3 +1,19 @@
+- speaker: Anna Song
+  affiliation: Imperial College London and The Francis Crick Institute
+  url: https://sites.google.com/view/annasong
+  date: Friday, 15 September 2023
+  time: 12pm
+  location: >
+    Jussieu, room 15-16.309 (i.e. in the corridor that links column 15 to column 16, on the third floor). 
+    This is the seminar room of the Laboratoire Jacques-Louis Lions.
+  title: The geometry and topology of shape patterns, with applications to leukaemia
+  abstract: >
+    Anna will present the results of 4 years of work on 3D shape textures.
+    This includes a new generative model based on curvature minimization,
+    contributions to topological data analysis in 3D
+    and a study of the microscopic structure of the bone marrow.
+
+
 - speaker: François-Xavier Vialard
   affiliation: Université Gustave Eiffel
   url: http://angkor.univ-mlv.fr/~vialard/
