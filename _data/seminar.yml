@@ -1,3 +1,18 @@
+- speaker: Louis Pujol and others
+  affiliation: Université Paris-Cité
+  url: https://louis-pujol.github.io/
+  date: Wednesday, 11 October 2023
+  time: 12pm
+  location: >
+    PariSanté Campus, 10 Rue d'Oradour-sur-Glane. Métro Balard or Porte de Versailles.
+    Seminar room of the HeKA team (3rd floor, South corridor).
+  title: Open discussion on multiscale methods
+  abstract: >
+    We will have an open chat on multiscale implementations of shape analysis methods,
+    from both practical and theoretical perspectives.
+    You may prepare up to 5 slides to present a method or implementation that you would like to discuss.
+
+
 - speaker: Anna Song
   affiliation: Imperial College London and The Francis Crick Institute
   url: https://sites.google.com/view/annasong
@@ -7,11 +22,13 @@
     Jussieu, room 15-16.309 (i.e. in the corridor that links column 15 to column 16, on the third floor). 
     This is the seminar room of the Laboratoire Jacques-Louis Lions.
   title: The geometry and topology of shape patterns, with applications to leukaemia
+  slides: slides/15_september_2023/Anna_Song_slides.pdf
+  video: https://www.youtube.com/watch?v=C3w-M67uUgI
   abstract: >
     Anna will present the results of 4 years of work on 3D shape textures.
     This includes a new generative model based on curvature minimization,
     contributions to topological data analysis in 3D
-    and a study of the microscopic structure of the bone marrow.
+    and a study of the microscopic structure of bone marrow vessels.
 
 
 - speaker: François-Xavier Vialard
