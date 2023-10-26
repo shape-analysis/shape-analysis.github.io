@@ -1,3 +1,42 @@
+- speaker: Elodie Maignant
+  affiliation: Inria Sophia and École Normale Supérieure Paris-Saclay
+  url: https://elodiemaignant.github.io/
+  date: Wednesday, 20 December 2023
+  time: 12pm
+  location: >
+    TBA
+  title: Intrinsic methods for manifold-valued data
+  abstract: >
+    Elodie will present her PhD thesis work, done under the supervision
+    of Xavier Pennec and Alain Trouvé.
+
+
+- speaker: Josua Sassen
+  affiliation: École Normale Supérieure Paris-Saclay
+  url: https://josuasassen.com/
+  date: Wednesday, 29 November 2023
+  time: 12pm
+  location: >
+    TBA
+  title: Some numerical methods for computer graphics and geometric design
+  abstract: >
+    Josua is starting a PostDoc in Paris and will introduce himself with a
+    collection of results from his work in Bonn.
+
+
+- speaker: Théo Dumont
+  affiliation: Université Gustave Eiffel
+  url: https://theodumont.github.io/
+  date: Wednesday, 8 November 2023
+  time: 12pm
+  location: >
+    Seminar room of the MAP5 laboratory, 45 rue des Saints-Pères in Paris (7th floor) - [detailed path](https://map5.mi.parisdescartes.fr/accueil/acces-contact/).
+  title: Optimal transport and infinite-dimensional Riemannian geometry
+  abstract: >
+    Théo will present his recent works done in collaboration with Philipp Harms and Klas Modin
+    on the structure of some shape spaces.
+
+
 - speaker: Louis Pujol and others
   affiliation: Université Paris-Cité
   url: https://louis-pujol.github.io/
