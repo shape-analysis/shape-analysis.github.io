@@ -15,9 +15,9 @@
   affiliation: École Normale Supérieure Paris-Saclay
   url: https://josuasassen.com/
   date: Wednesday, 29 November 2023
-  time: 12pm
+  time: 12.30pm
   location: >
-    TBA
+    Jussieu - room to be announced.
   title: Some numerical methods for computer graphics and geometric design
   abstract: >
     Josua is starting a PostDoc in Paris and will introduce himself with a
@@ -31,11 +31,10 @@
   time: 12pm
   location: >
     Seminar room of the MAP5 laboratory, 45 rue des Saints-Pères in Paris (7th floor) - [detailed path](https://map5.mi.parisdescartes.fr/accueil/acces-contact/).
-  title: Optimal transport and infinite-dimensional Riemannian geometry
+  title: The geometry of optimal transport (and Gromov-Wasserstein)
   abstract: >
-    Théo will present his recent works done in collaboration with Philipp Harms and Klas Modin
-    on the structure of some shape spaces.
-
+    Théo will present new results on the structure of the Wasserstein and Gromov-Wasserstein metrics.
+  video: https://www.youtube.com/watch?v=C917-cOevSY&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=5
 
 - speaker: Louis Pujol and others
   affiliation: Université Paris-Cité
