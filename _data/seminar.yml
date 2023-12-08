@@ -4,11 +4,38 @@
   date: Wednesday, 20 December 2023
   time: 12pm
   location: >
-    TBA
+    [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room 15-16.309: between towers 15 and 16, on the 3rd floor.
   title: Intrinsic methods for manifold-valued data
   abstract: >
     Elodie will present her PhD thesis work, done under the supervision
     of Xavier Pennec and Alain Trouvé.
+
+
+- speaker: Barbara Gris
+  affiliation: CNRS, Laboratoire Jacques-Louis Lions
+  url: http://gris.perso.math.cnrs.fr/fr/
+  date: Wednesday, 6 december 2023 - SMAI-SIGMA day
+  time: 10am
+  location: >
+    [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room 15-16.309: between towers 15 and 16, on the 3rd floor.
+  title: Constrained diffeomorphometry in computational anatomy.
+  abstract: >
+    Barbara will present an optimal control framework to perform statistical shape analysis with plausible biological priors.
+  video: https://www.youtube.com/watch?v=qVm2BvH3C8s&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=10
+
+
+- speaker: Jean Feydy
+  affiliation: Inria Paris, HeKA team
+  url: https://www.jeanfeydy.com/
+  date: Wednesday, 6 december 2023 - SMAI-SIGMA day
+  time: 9am
+  location: >
+    [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room 15-16.309: between towers 15 and 16, on the 3rd floor.
+  title: Optimal transport with 3D shapes.
+  abstract: >
+    Jean will present modern optimal transport algorithms, articulating the difference between simple, solved problems in dimension 2 or 3 and NP-hard problems in high dimension.
+  slides: https://www.jeanfeydy.com/Talks/SMAI_SIGMA_2023/SMAI_SIGMA_2023.pdf
+  video: https://www.youtube.com/watch?v=Aar-lPFT2Vc&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=9
 
 
 - speaker: Josua Sassen
@@ -22,6 +49,7 @@
   abstract: >
     Josua is starting a PostDoc in Paris and will introduce himself with a
     collection of results from his work in Bonn.
+  video: https://www.youtube.com/watch?v=TMU_f5fcLCg&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=8
 
 
 - speaker: Théo Dumont
@@ -34,7 +62,7 @@
   title: The geometry of optimal transport (and Gromov-Wasserstein)
   abstract: >
     Théo will present new results on the structure of the Wasserstein and Gromov-Wasserstein metrics.
-  video: https://www.youtube.com/watch?v=C917-cOevSY&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=5
+  video: https://www.youtube.com/watch?v=DaMe4ZEJrus&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=6
 
 - speaker: Louis Pujol and others
   affiliation: Université Paris-Cité
