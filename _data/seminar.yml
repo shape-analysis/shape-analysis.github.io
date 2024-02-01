@@ -1,3 +1,15 @@
+- speaker: Robin Magnet
+  affiliation: GeoVic team, LIX, Ecole Polytechnique
+  url: https://www.lix.polytechnique.fr/Labo/Robin.Magnet/
+  date: Wednesday, 20 March 2024
+  time: 12pm
+  location: >
+    [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room TBA.
+  title: Non-rigid shape matching with intrinsic methods
+  abstract: >
+    Robin will present his work on functional maps, including his [pyFM](https://github.com/RobinMagnet/pyFM) library.
+
+
 - speaker: Louis Pujol
   affiliation: Université Paris-Cité, HeKA team
   url: https://louis-pujol.github.io/
@@ -7,7 +19,7 @@
     Seminar room of the MAP5 laboratory, 45 rue des Saints-Pères in Paris (7th floor) - [detailed path](https://map5.mi.parisdescartes.fr/accueil/acces-contact/).
   title: scikit-shapes, a transparent package for statistical shape analysis
   abstract: >
-    Louis will present the first (beta) release of the scikit-shapes library. The talk will be followed by an informal lab session - feel free to bring your laptop!
+    Louis will present the first (beta) release of the [scikit-shapes](https://github.com/scikit-shapes/scikit-shapes/) library. The talk will be followed by an informal lab session - feel free to bring your laptop!
 
 
 - speaker: Slavica Jonic
@@ -16,7 +28,7 @@
   date: Wednesday, 7 February 2024
   time: 12pm
   location: >
-    [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room TBA.
+    [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room 15-16.309: between towers 15 and 16, on the 3rd floor.
   title: From cryo electron microscopy data to continuous conformational landscapes of biomolecules
   abstract: >
     The elucidation of different conformations of biomolecular complexes is the key for understanding the molecular mechanisms behind the biological functions of the complexes and the key to novel drug discovery. Single particle analysis (SPA) is a data collection and analysis technique of cryo electron microscopy (cryo-EM) that allows 3D reconstruction of multiple conformations of purified biomolecular complexes from their 2D images. Another cryo-EM technique is cryo electron tomography (cryo-ET), which allows obtaining multiple conformations of the complexes in their cellular environment.
