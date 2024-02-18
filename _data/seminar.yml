@@ -33,7 +33,7 @@
   abstract: >
     The elucidation of different conformations of biomolecular complexes is the key for understanding the molecular mechanisms behind the biological functions of the complexes and the key to novel drug discovery. Single particle analysis (SPA) is a data collection and analysis technique of cryo electron microscopy (cryo-EM) that allows 3D reconstruction of multiple conformations of purified biomolecular complexes from their 2D images. Another cryo-EM technique is cryo electron tomography (cryo-ET), which allows obtaining multiple conformations of the complexes in their cellular environment.
     Currently, one of the most important and challenging open problems in the cryo-EM field is how to obtain the entire, continuous conformational landscapes of the biomolecules from the data. Consequently, since a few years, methods development to solve this problem has been a very active research area. My group is developing such methods, by combining image processing, molecular dynamics simulations, and deep learning approaches. These methods are made available publicly via our open-source, ContinuousFlex software package, which can be run as a plugin of the broadly used Scipion software package. In this talk, I will present some of our most important achievements regarding this work.
-
+  video: https://www.youtube.com/watch?v=dzZBnWNBRfE&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=12
 
 
 - speaker: Fleur Gaudfernau
@@ -47,6 +47,7 @@
   abstract: >
     Fleur will present her PhD thesis work, done under the supervision
     of Stéphanie Allassonnière and Erwan Le Pennec.
+  video: https://www.youtube.com/watch?v=kp8W91WkfKw&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=11
 
 
 - speaker: Elodie Maignant
@@ -60,6 +61,7 @@
   abstract: >
     Elodie will present her PhD thesis work, done under the supervision
     of Xavier Pennec and Alain Trouvé.
+  video: https://www.youtube.com/watch?v=TFQMwNY-yKY&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=10
 
 
 - speaker: Barbara Gris
