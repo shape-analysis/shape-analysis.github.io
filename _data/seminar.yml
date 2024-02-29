@@ -19,7 +19,9 @@
     Seminar room of the MAP5 laboratory, 45 rue des Saints-Pères in Paris (7th floor) - [detailed path](https://map5.mi.parisdescartes.fr/accueil/acces-contact/).
   title: scikit-shapes, a transparent package for statistical shape analysis
   abstract: >
-    Louis will present the first (beta) release of the [scikit-shapes](https://github.com/scikit-shapes/scikit-shapes/) library. The talk will be followed by an informal lab session - feel free to bring your laptop!
+    Louis will present the first (beta) release of the [scikit-shapes](https://github.com/scikit-shapes/scikit-shapes/) library. The talk will be followed by an informal lab session - feel free to bring your laptop! Links: [tutorial](https://louis-pujol.github.io/scikit-shapes-tutorial/index.html), [GitHub](https://github.com/scikit-shapes/scikit-shapes), [documentation](https://scikit-shapes.github.io/scikit-shapes/), [one-page gallery](https://github.com/Louis-Pujol/one-page-gallery-pyvista).
+  slides: slides/28_february_2024/Louis_Pujol_slides.pdf
+  video: https://www.youtube.com/watch?v=F7ULwF5_9Jc&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=13
 
 
 - speaker: Slavica Jonic
