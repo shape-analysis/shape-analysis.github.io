@@ -1,3 +1,39 @@
+- speaker: Philippe Moireau
+  affiliation: Inria Saclay, MediSim team
+  url: https://pages.saclay.inria.fr/philippe.moireau/
+  date: Wednesday, 12 or 19 June 2024
+  time: 12pm
+  location: >
+    [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room TBA.
+  title: How to build a realistic model of the heart?
+  abstract: >
+    Philippe will present his work the simulation of biomechanical systems such as the ones encountered in cardiac mechanics, taking into account non-linear mechanics, active soft tissues, fluid-structure interactions, poroelasticity and reaction-diffusion.
+
+
+- speaker: Bruno Lévy
+  affiliation: Inria Saclay, ParMA team
+  url: https://brunolevy.github.io/
+  date: Wednesday, 15 May 2024
+  time: 12pm
+  location: >
+    [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room TBA.
+  title: A Lagrangian method for fluids with free boundaries
+  abstract: >
+    In this presentation, I'll describe a numerical simulation method for free-surface fluids. I will start by giving an intuitive understanding of the physical phenomena involved in fluid dynamics, pressure, viscosity and surface tension. Then I will detail the numerical simulation method, based on the Gallouet-Mérigot numerical scheme, that describes the fluid as a set of cells, that can deform, but that keep a constant volume, and that follow the motion of the fluid (Lagrangian method). The constant volume constraint takes the form of a partial semi-discrete optimal transport. I will present the geometric and numerical aspects of this optimal transport problem.
+
+
+- speaker: Josua Sassen
+  affiliation: École Normale Supérieure Paris-Saclay
+  url: https://josuasassen.com/
+  date: Wednesday, 10 April 2024
+  time: 12pm
+  location: >
+    [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room 15-16.309: between towers 15 and 16, on the 3rd floor.
+  title: Shape optimization problems on discrete surfaces
+  abstract: >
+    Josua will present his work on surface segmentation and design with applications to architecture, mechanical engineering and graphics.
+
+
 - speaker: Robin Magnet
   affiliation: GeoVic team, LIX, Ecole Polytechnique
   url: https://www.lix.polytechnique.fr/Labo/Robin.Magnet/
@@ -8,6 +44,7 @@
   title: Non-rigid shape matching with intrinsic methods
   abstract: >
     Robin will present his work on functional maps, including his [pyFM](https://github.com/RobinMagnet/pyFM) library.
+  video: https://www.youtube.com/watch?v=VQxzzZuTgvk&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=14
 
 
 - speaker: Louis Pujol
