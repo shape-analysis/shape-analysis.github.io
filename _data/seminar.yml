@@ -1,7 +1,7 @@
 - speaker: Philippe Moireau
   affiliation: Inria Saclay, MediSim team
   url: https://pages.saclay.inria.fr/philippe.moireau/
-  date: Wednesday, 12 or 19 June 2024
+  date: Wednesday, 19 June 2024
   time: 12pm
   location: >
     [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room TBA.
@@ -16,7 +16,7 @@
   date: Wednesday, 15 May 2024
   time: 12pm
   location: >
-    [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room TBA.
+    [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room 15-25.328: between towers 15 and 25, on the 3rd floor.
   title: A Lagrangian method for fluids with free boundaries
   abstract: >
     In this presentation, I'll describe a numerical simulation method for free-surface fluids. I will start by giving an intuitive understanding of the physical phenomena involved in fluid dynamics, pressure, viscosity and surface tension. Then I will detail the numerical simulation method, based on the Gallouet-Mérigot numerical scheme, that describes the fluid as a set of cells, that can deform, but that keep a constant volume, and that follow the motion of the fluid (Lagrangian method). The constant volume constraint takes the form of a partial semi-discrete optimal transport. I will present the geometric and numerical aspects of this optimal transport problem.
@@ -32,6 +32,7 @@
   title: Shape optimization problems on discrete surfaces
   abstract: >
     Josua will present his work on surface segmentation and design with applications to architecture, mechanical engineering and graphics.
+  video: https://www.youtube.com/watch?v=OVgY-PpYy68&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=15
 
 
 - speaker: Robin Magnet
