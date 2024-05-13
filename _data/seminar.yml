@@ -1,5 +1,5 @@
 - speaker: Philippe Moireau
-  affiliation: Inria Saclay, MediSim team
+  affiliation: Inria Saclay and École Polytechnique, MΞDISIM team
   url: https://pages.saclay.inria.fr/philippe.moireau/
   date: Wednesday, 19 June 2024
   time: 12pm
@@ -7,7 +7,9 @@
     [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room TBA.
   title: Data assimilation in shape spaces
   abstract: >
-    Data assimilation aims to couple dynamic models of physical systems with available measurements in order to propose a case-specific, true digital twin of the observed physics. This field, originally developed in the 1970s for accurate predictions in environmental sciences, is now being extended to various fields, including engineering and life sciences. In this talk, we propose to adapt classical data assimilation formulations to deal with shape data defined in adapted space manifolds. We will present configurations where the state space in which the dynamics lives is a space manifold, or configurations where the partial observations are defined in a manifold, so that we can adapt our strategy to all cases of shape data assimilation. Finally, our approach will be illustrated by the assimilation of models from the environmental sciences - in particular forest fire models - or the life sciences - in particular cardiovascular models.
+    Data assimilation aims to couple dynamic models of physical systems with available measurements in order to propose a case-specific, true digital twin of the observed physics. This field, originally developed in the 1970s for accurate predictions in environmental sciences, is now being extended to various fields, including engineering and life sciences. In this talk, we propose to adapt classical data assimilation formulations to deal with shape data defined in adapted space manifolds. We will present configurations where the state space in which the dynamics lives is a space manifold, or configurations where the partial observations are defined in a manifold, so that we can adapt our strategy to all cases of shape data assimilation. Finally, our approach will be illustrated by the assimilation of models taken from environmental sciences - in particular wildfire models - or from life sciences - in particular cardiovascular models.
+
+
 
 
 - speaker: Bruno Lévy
