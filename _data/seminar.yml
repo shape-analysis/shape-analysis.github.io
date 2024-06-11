@@ -1,10 +1,23 @@
+- speaker: Open discussion
+  affiliation: collective
+  url: https://shape-analysis.github.io/
+  date: Wednesday, 3 July 2024
+  time: 12pm
+  location: >
+    [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room 15-16.309.
+  title: Optimization in shape analysis
+  abstract: >
+    For this end-of-year seminar, we will have an open discussion around
+    optimization methods for shape analysis, built around small presentations.
+
+
 - speaker: Philippe Moireau
   affiliation: Inria Saclay and École Polytechnique, MΞDISIM team
   url: https://pages.saclay.inria.fr/philippe.moireau/
   date: Wednesday, 19 June 2024
   time: 12pm
   location: >
-    [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room TBA.
+    [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room 15-16.101.
   title: Data assimilation in shape spaces
   abstract: >
     Data assimilation aims to couple dynamic models of physical systems with available measurements in order to propose a case-specific, true digital twin of the observed physics. This field, originally developed in the 1970s for accurate predictions in environmental sciences, is now being extended to various fields, including engineering and life sciences. In this talk, we propose to adapt classical data assimilation formulations to deal with shape data defined in adapted space manifolds. We will present configurations where the state space in which the dynamics lives is a space manifold, or configurations where the partial observations are defined in a manifold, so that we can adapt our strategy to all cases of shape data assimilation. Finally, our approach will be illustrated by the assimilation of models taken from environmental sciences - in particular wildfire models - or from life sciences - in particular cardiovascular models.
@@ -22,6 +35,7 @@
   title: A Lagrangian method for fluids with free boundaries
   abstract: >
     In this presentation, I'll describe a numerical simulation method for free-surface fluids. I will start by giving an intuitive understanding of the physical phenomena involved in fluid dynamics, pressure, viscosity and surface tension. Then I will detail the numerical simulation method, based on the Gallouet-Mérigot numerical scheme, that describes the fluid as a set of cells, that can deform, but that keep a constant volume, and that follow the motion of the fluid (Lagrangian method). The constant volume constraint takes the form of a partial semi-discrete optimal transport. I will present the geometric and numerical aspects of this optimal transport problem.
+  video: https://www.youtube.com/watch?v=-DVD73sKLJs&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=16
 
 
 - speaker: Josua Sassen
