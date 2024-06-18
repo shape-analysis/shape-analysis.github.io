@@ -9,7 +9,9 @@ background: "../img/banner_5.png"
 ### Job offers
 
 <hr>
+<p>No open position at the moment. Please feel free to send job offers to the mailing list, they will be added here.</p>
 
+<!--
 <h5>CIFRE PhD &#8212; automatic estimation of body measurements from 3D scans acquired by a smartphone
 <a id="2023_MyFit_Feydy" /></h5>
 <p>
@@ -23,4 +25,4 @@ background: "../img/banner_5.png"
 <a href="https://myfit-solutions.com/en/">company website</a>,
 <a href="https://www.jeanfeydy.com/">academic advisor</a>.
 </p>
-
+-->
