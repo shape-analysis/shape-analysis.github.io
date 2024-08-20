@@ -60,9 +60,9 @@
   abstract: TBA
 
 
-- speaker: TBA
-  affiliation: ~
-  url: https://shape-analysis.github.io/
+- speaker: Thomas Pierron
+  affiliation: ENS Paris-Saclay, Centre Borelli
+  url: https://centreborelli.ens-paris-saclay.fr/fr/annuaire-des-personnes/thomas-pierron
   date: Wednesday, 25 September 2024
   time: 12pm
   location: >
@@ -71,15 +71,17 @@
   abstract: TBA
 
 
-- speaker: Thomas Pierron
-  affiliation: ENS Paris-Saclay, Centre Borelli
-  url: https://centreborelli.ens-paris-saclay.fr/fr/annuaire-des-personnes/thomas-pierron
+- speaker: Gautam Pai
+  affiliation: Eindhoven University of Technology
+  url: https://sites.google.com/view/paigautam/home
   date: Wednesday, 11 September 2024
   time: 12pm
   location: >
     [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room TBA.
-  title: TBA
-  abstract: TBA
+  title: Optimal Transport on the Lie Group of Roto-Translations
+  abstract: >
+    The roto-translation group SE(2) has been of active interest in image analysis due to methods that lift the image data to multi-orientation representations defined in this Lie group. This has led to impactful applications of crossing-preserving flows for image de-noising, geodesic tracking, and roto-translation equivariant deep learning. 
+    In this talk, I will enumerate a computational framework for optimal transportation over Lie groups, with a special focus on SE(2). I will describe several theoretical aspects such as the non-optimality of group actions as transport maps, invariance and equivariance of optimal transport, and the quality of the entropic-regularized optimal transport plan using geodesic distance approximations. Finally, I will illustrate a Sinkhorn-like algorithm that can be efficiently implemented using fast and accurate distance approximations of the Lie group and GPU-friendly group convolutions. We report advancements with the experiments on 1) 2D shape/ image barycenters, 2) interpolation of planar orientation fields, and 3) Wasserstein gradient flows on SE(2). We observe that our framework of lifting images to SE(2) and optimal transport with left-invariant anisotropic metrics leads to equivariant transport along dominant contours and salient line structures in the image and leads to meaningful interpolations compared to their counterparts on R^2.
 
 
 - speaker: Open discussion
