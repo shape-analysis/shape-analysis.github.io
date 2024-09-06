@@ -8,15 +8,16 @@
   title: TBA
   abstract: TBA
 
-- speaker: TBA
-  affiliation: ~
-  url: https://shape-analysis.github.io/
+- speaker: Siwan Boufadène
+  affiliation: Université Gustave Eiffel, LIGM
+  url: http://angkor.univ-mlv.fr/~vialard/authors/siwan-boufadene/
   date: Wednesday, 8 January 2025
   time: 12pm
   location: >
     [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room TBA.
-  title: TBA
-  abstract: TBA
+  title: On the global convergence of Wasserstein gradient flow of the Coulomb discrepancy
+  abstract: >
+    In this work, we study the Wasserstein gradient flow of the Riesz energy defined on the space of probability measures. The Riesz kernels define a quadratic functional on the space of measure which is not in general geodesically convex in the Wasserstein geometry, therefore one cannot conclude to global convergence of the Wasserstein gradient flow using standard arguments. Our main result is the exponential convergence of the flow to the minimizer on a closed Riemannian manifold under the condition that the logarithm of the source and target measures are Hölder continuous. To this goal, we first prove that the Polyak-Lojasiewicz inequality is satisfied for sufficiently regular solutions. The key regularity result is the global in-time existence of Hölder solutions if the initial and target data are Hölder continuous, proven either in Euclidean space or on a closed Riemannian manifold. For general measures, we prove using flow interchange techniques that there is no local minima other than the global one for the Coulomb kernel. In fact, we prove that a Lagrangian critical point of the functional for the Coulomb (or Energy distance) kernel is equal to the target everywhere except on singular sets with empty interior. In addition, singular enough measures cannot be critical points. [Link to the preprint.](https://hal.science/hal-04282762v1)
 
 - speaker: TBA
   affiliation: ~
