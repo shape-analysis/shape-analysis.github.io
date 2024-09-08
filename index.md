@@ -37,8 +37,6 @@ Every three weeks, we organize an in-person seminar in Paris around noon:
   {% endif %}
 
   <b>Speaker:</b> <a href="{{ oneitem.url }}">{{ oneitem.speaker }}</a>  ({{ oneitem.affiliation }}) 
-   <br/><!--<div style="margin-bottom:0.2em;"></div> -->
-  <b>Abstract:</b> {{ oneitem.abstract | markdownify | remove: '<p>' | remove: '</p>'  }}
   
   {% if oneitem.video or oneitem.slides or oneitem.code or oneitem.registration %}
    <br/><!--<div style="margin-bottom:0.5em;"></div> -->
@@ -57,6 +55,13 @@ Every three weeks, we organize an in-person seminar in Paris around noon:
     {% endif %}
      <br/>
   {% endif %}
+
+   <br/><!--<div style="margin-bottom:0.2em;"></div> -->
+   <details>
+   <summary><b>Abstract:</b></summary> 
+   {{ oneitem.abstract | markdownify | remove: '<p>' | remove: '</p>'  }}
+   </details>
+
   </p>
 {% endfor %}
 <hr>
