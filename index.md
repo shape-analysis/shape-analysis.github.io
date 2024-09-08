@@ -53,10 +53,9 @@ Every three weeks, we organize an in-person seminar in Paris around noon:
     {% if oneitem.registration %}
       <a href="{{ oneitem.registration }}"><span style="color:red"><b>Registration</b></span></a> is free but mandatory.
     {% endif %}
-     <br/>
   {% endif %}
 
-   <br/><!--<div style="margin-bottom:0.2em;"></div> -->
+   <!--<br/> <div style="margin-bottom:0.2em;"></div> -->
    <details>
    <summary><b>Abstract:</b></summary> 
    {{ oneitem.abstract | markdownify | remove: '<p>' | remove: '</p>'  }}
