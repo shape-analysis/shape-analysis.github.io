@@ -1,12 +1,13 @@
-- speaker: TBA
-  affiliation: ~
-  url: https://shape-analysis.github.io/
+- speaker: Pascal Romon
+  affiliation: Université Paris-Est Marne-la-Vallée - LAMA
+  url: https://perso.math.u-pem.fr/romon.pascal/
   date: Wednesday, 29 January 2025
   time: 12pm
   location: >
     [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room TBA.
-  title: TBA
-  abstract: TBA
+  title: Lightweight curvature estimation on point clouds with randomized corrected curvature measures
+  abstract: >
+    The estimation of differential quantities on oriented point cloud is a classical step for many geometry processing tasks in computer graphics and vision. Even if many solutions exist to estimate such quantities, they usually fail at satisfying both a stable estimation with theoretical guarantee, and the efficiency of the associated algorithm. Relying on the notion of corrected curvature measures designed for surfaces, the method introduced in this paper meets both requirements. Given a point of interest and a few nearest neighbours, our method estimates the whole curvature tensor information by generating random triangles within these neighbours and normalising the corrected curvature measures by the corrected area measure. We provide a stability theorem showing that our pointwise curvatures are accurate and convergent, provided the noise in position and normal information has a variance smaller than the radius of neighbourhood. Experiments and comparisons with the state-of-the-art confirm that our approach is more accurate and much faster than alternatives. The method is fully parallelizable, requires only one nearest neighbour request per point of computation, and is trivial to implement.
 
 - speaker: Siwan Boufadène
   affiliation: Université Gustave Eiffel, LIGM
@@ -36,8 +37,12 @@
   time: 12pm
   location: >
     [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room TBA.
-  title: TBA
-  abstract: TBA
+  title: Volumetric ultrasound localization microscopy
+  abstract: >
+    Ultrasound imaging is a widely used medical technique sensitive to blood flow. However, it is limited by a classic tradeoff between penetration and resolution. In particular, brain imaging and ultrasound angiography are compromised by the skull, which attenuates the acoustic waves, especially those that could provide submillimeter details.
+    Ultrasound localization microscopy (ULM) is a technique that provides very high-resolution depth imaging in tissues. It relies on clinical contrast agents, called microbubbles, which are isolated and localized at the micrometer scale in ultrasound images. Tracking their trajectories can provide blood speeds in the microcirculation. This technique has been demonstrated in the brain (Errico et al. Nature 2015), as well as in the kidney, tumors, peripheral vessels and lymph nodes, in both humans and animals (see the review in Couture et al. IEEE UFFC 2018, Christensen-Jeffries et al. UMB 2020 or Song et al. "Super-resolution ultrasound microvascular imaging: Is it ready for clinical use?" 2023).
+    During this presentation, we will describe recent advances in ULM. In particular, we will show the three-dimensional reconstruction of the rat brain hemodynamics at the micrometer scale. A full-brain angiography at this scale will also be presented. We will discuss its application for the differentiation of strokes and its transfer to the clinical domain through intermediate experiments on the sheep brain and two-dimensional ULM with clinical ultrasound devices. All these developments aim to create a new imaging tool for stroke patients in intensive care, potentially reducing treatment time for ischemic patients.
+    We will also describe recent developments in kidney imaging, where ULM offers new perspectives on the functional units of the organ, namely the nephron and its glomeruli, in both humans and animals. In the future, ULM could enable depth angiography at a scale currently only achievable through invasive modalities.
 
 - speaker: TBA
   affiliation: ~
