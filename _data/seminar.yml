@@ -73,8 +73,10 @@
   time: 12pm
   location: >
     [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room 15-16.309 (between towers 15 and 16, on the 3rd floor).
-  title: TBA
-  abstract: TBA
+  title: A right-invariant setting for large deformations model, and applications to matching problems
+  abstract: >
+    This talk will be divided in two parts. First we will study the extension of LDDMM framework to continuous actions of right half-Lie groups equipped with a right invariant sub-Riemannian metric. This generalizes work from Arguillere on the sub-Riemannian geometry of Sobolev diffeomorphisms and their applications to shape analysis. In particular, it allows to introduce news co-adjoint variables and study new dynamics. We will discuss on some optimization problems that this  framework raises with some examples of half-Lie group actions
+
 
 
 - speaker: Gautam Pai
