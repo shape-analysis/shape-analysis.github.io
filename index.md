@@ -29,14 +29,14 @@ Every three weeks, we organize an in-person seminar in Paris around noon:
    <h5>{{ oneitem.date }} &#8212; {{ oneitem.title }}</h5>
   <p>
 
-  <b>Speaker:</b> <a href="{{ oneitem.url }}">{{ oneitem.speaker }}</a>  ({{ oneitem.affiliation }}) 
+  <a href="{{ oneitem.url }}">{{ oneitem.speaker }}</a>  ({{ oneitem.affiliation }}) 
   
   {% if oneitem.time %}
   at <b>{{ oneitem.time }}</b>
   {% endif %}
   {% if oneitem.location %}
   in {{ oneitem.location | markdownify | remove: '<p>' | remove: '</p>' }}
-   <br/> <!--<div style="margin-bottom:0.5em;"></div> -->
+  <!--<div style="margin-bottom:0.5em;"></div> -->
   {% endif %}
 
   {% if oneitem.video or oneitem.slides or oneitem.code or oneitem.registration %}
