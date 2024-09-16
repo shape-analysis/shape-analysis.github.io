@@ -28,16 +28,17 @@ Every three weeks, we organize an in-person seminar in Paris around noon:
 
    <h5>{{ oneitem.date }} &#8212; {{ oneitem.title }}</h5>
   <p>
-  {% if oneitem.time %}
-  <b>Time: </b> {{ oneitem.time }} <br/>
-  {% endif %}
-  {% if oneitem.location %}
-  <b>Location:</b> {{ oneitem.location | markdownify | remove: '<p>' | remove: '</p>' }}
-   <br/> <!--<div style="margin-bottom:0.5em;"></div> -->
-  {% endif %}
 
   <b>Speaker:</b> <a href="{{ oneitem.url }}">{{ oneitem.speaker }}</a>  ({{ oneitem.affiliation }}) 
   
+  {% if oneitem.time %}
+  at <b>{{ oneitem.time }}</b>
+  {% endif %}
+  {% if oneitem.location %}
+  in {{ oneitem.location | markdownify | remove: '<p>' | remove: '</p>' }}
+   <br/> <!--<div style="margin-bottom:0.5em;"></div> -->
+  {% endif %}
+
   {% if oneitem.video or oneitem.slides or oneitem.code or oneitem.registration %}
    <br/><!--<div style="margin-bottom:0.5em;"></div> -->
    <b>Links:</b> 
