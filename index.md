@@ -18,7 +18,7 @@ Every three weeks, we organize an in-person seminar in Paris around noon:
   - 60mn of informal discussions, followed by a **60mn presentation**.
   - you are welcome to share the free **lunch** we provide.
   - **Videos** for most presentations are available on YouTube [(click here)](https://www.youtube.com/watch?v=m68NjYSD7gU&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp).
-  - ical: <a href="/events.ics">Download Calendar</a>
+  - ical: <a href="/shape-analysis-seminar.ics">Download Calendar</a>
 
 <br/>
 
