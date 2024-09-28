@@ -221,6 +221,7 @@
   url: http://gris.perso.math.cnrs.fr/fr/
   date: Wednesday, 6 december 2023 - SMAI-SIGMA day
   time: 10am
+  durarion: 60min
   location: >
     [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room 15-16.309: between towers 15 and 16, on the 3rd floor.
   title: Constrained diffeomorphometry in computational anatomy.
@@ -234,6 +235,7 @@
   url: https://www.jeanfeydy.com/
   date: Wednesday, 6 december 2023 - SMAI-SIGMA day
   time: 9am
+  duration: 60min
   location: >
     [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room 15-16.309: between towers 15 and 16, on the 3rd floor.
   title: Optimal transport with 3D shapes.
@@ -247,7 +249,7 @@
   affiliation: École Normale Supérieure Paris-Saclay
   url: https://josuasassen.com/
   date: Wednesday, 29 November 2023
-  time: 12.30pm
+  time: 12:30pm
   location: >
     [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room 15-25.328: between towers 15 and 25, on the 3rd floor.
   title: Some numerical methods for computer graphics and geometric design
@@ -305,8 +307,9 @@
 - speaker: François-Xavier Vialard
   affiliation: Université Gustave Eiffel
   url: http://angkor.univ-mlv.fr/~vialard/
-  date: Monday, 26 June 2023, 1/4
-  time: 12.30pm
+  date: Monday, 26 June 2023
+  time: 12:30pm
+  duration: 30min
   location: >
     Inria Paris centre, 2 rue Simone Iff, A building, ground floor, Emmy Noether room (Startup Studio entrance).
   title: Some open mathematical problems
@@ -319,7 +322,9 @@
 - speaker: Vincent Mallet
   affiliation: École Polytechnique, CNRS
   url: https://vincentx15.github.io/
-  date: 2/4
+  date: Monday, 26 June 2023
+  time: 13pm
+  duration: 30min
   title: Modeling structural biology with geometric deep learning
   slides: slides/26_june_2023/Vincent_Mallet_slides.pdf
   video: https://www.youtube.com/watch?v=fZClkLf3weU&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp
@@ -331,7 +336,9 @@
 - speaker: Guillaume Sérieys
   affiliation: Université Paris-Cité, MAP5
   url: https://map5.mi.parisdescartes.fr/guillaume-serieys/
-  date: 3/4
+  date: Monday, 26 June 2023
+  time: 13:30pm
+  duration: 30min
   title: Metamorphoses of manifold-valued images
   slides: slides/26_june_2023/Guillaume_Serieys_slides.pdf
   abstract: >
@@ -342,7 +349,9 @@
 - speaker: Thomas Pierron
   affiliation: ENS, Centre Borelli
   url: https://centreborelli.ens-paris-saclay.fr/fr/annuaire-des-personnes/thomas-pierron
-  date: 4/4
+  date: Monday, 26 June 2023
+  time: 14pm
+  duration: 30min
   title: An extended orbit model
   slides: slides/26_june_2023/Thomas_Pierron_slides.pdf
   video: https://www.youtube.com/watch?v=w8nnHv1RzwA&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp
@@ -355,7 +364,7 @@
   affiliation: Université Paris-Cité
   url: https://louis-pujol.github.io/
   date: Friday, 2 June 2023
-  time: 12.30pm
+  time: 12:30pm
   video: https://www.youtube.com/watch?v=m68NjYSD7gU&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp
   code: https://github.com/Louis-Pujol/3D_visualization_in_python/tree/main
   location: >

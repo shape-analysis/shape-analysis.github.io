@@ -10,29 +10,20 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 
 {% for event in site.data.seminar %}
-{%- comment -%}
-  Format dates.
-{%- endcomment -%}
-{% assign date_string = event.date %}
-{% assign time_string = event.time %}
-{% assign duration_in_hours = event.duration | default: 2 %}
-{% assign duration_in_seconds = duration_in_hours | times: 3600 %}
-{%- comment -%}
-  Convert the date to a format Jekyll can understand and get start time.
-{%- endcomment -%}
-{% assign start_time_str = date_string | date: "%Y-%m-%d" | append: " " | append: time_string %}
-{% assign start_time = start_time_str | date: "%Y%m%dT%H%M%S" %}
-{%- comment -%}
-  Calculate end time.
-{%- endcomment -%}
-{% assign end_time = start_time_str | date: "%s" | plus: duration_in_seconds | date: "%Y%m%dT%H%M%S" %}
+{%- assign time_string = event.time -%}
+{%- assign duration_string = event.duration | default: "120min" -%}
+{%- assign duration_in_minutes = duration_string | remove: "min" | plus: 0 -%}
+{%- assign duration_in_seconds = duration_in_minutes | times: 60 -%}
+{%- assign start_time_str = event.date | date: "%Y-%m-%d" | append: " " | append: time_string -%}
+{%- assign start_time = start_time_str | date: "%Y%m%dT%H%M%S" -%}
+{%- assign end_time = start_time_str | date: "%s" | plus: duration_in_seconds | date: "%Y%m%dT%H%M%S" -%}
 BEGIN:VEVENT
 UID:{{ start_time }}@shape-analysis
 SUMMARY:Shape Sem. - {{ event.speaker }}
 DTSTART;TZID=Europe/Paris:{{ start_time }}
 DTEND;TZID=Europe/Paris:{{ end_time }}
-LOCATION:{{ event.location }}
-DESCRIPTION:{{event.speaker}} ({{ event.affiliation | default: unknown }})  - {{ event.title }} - {{ event.abstract }}
+LOCATION:{{ event.location  | rstrip }}
+DESCRIPTION:{{event.speaker}} ({{ event.affiliation | default: unknown }})  - {{ event.title }} - {{ event.abstract | rstrip }}
 END:VEVENT
 
 {% endfor %}
