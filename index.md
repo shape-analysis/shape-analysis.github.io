@@ -8,8 +8,7 @@ background: "img/banner_4.png"
 
 This website is home to the French research community on **shapes analysis**, from biomedical imaging to computer assisted design and graphics. 
 
-We organize an **open seminar** in Paris and diffuse announcements related to relevant software tools, conferences and job offers. You may subscribe to the <a href="#mailing_list">mailing list</a>, feel free to invite newcomers in the field (interns, students, engineers...).
-
+We organize an **open seminar** in Paris and diffuse announcements related to relevant software tools, conferences and job offers. You may subscribe to the <a href="#mailing_list">mailing list</a>, feel free to invite newcomers in the field (interns, students, engineers...). You may also consider to subscribe to the <a href="#calendar_feed">calendar feed</a>. 
 
 ### Shape seminar
 
@@ -18,7 +17,6 @@ Every three weeks, we organize an in-person seminar in Paris around noon:
   - 60mn of informal discussions, followed by a **60mn presentation**.
   - you are welcome to share the free **lunch** we provide.
   - **Videos** for most presentations are available on YouTube [(click here)](https://www.youtube.com/watch?v=m68NjYSD7gU&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp).
-  - ical: <a href="/shape-analysis-seminar.ics">Download Calendar</a>
 
 <br/>
 
@@ -76,6 +74,12 @@ To register to **shapes@inria.fr**, please:
 
 1. Send a message with title "**subscribe shapes Your Name**" to **[sympa_inria@inria.fr](mailto:sympa_inria@inria.fr?subject=subscribe shapes)**.
 2. You will then receive an **invite link**. <span style="color:red">**Don't forget to click on it**</span>, or you won't be registered as a subscriber!
+
+<br/>
+
+### <a id="calendar_feed" />Ical feed
+
+A calendar feed of the seminar is available for subscription. Simply add this <a href="/shape-analysis-seminar.ics">ical link</a> to your calendar app.
 
 <br/>
 
