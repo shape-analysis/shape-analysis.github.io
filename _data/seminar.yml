@@ -21,15 +21,15 @@
     In this work, we study the Wasserstein gradient flow of the Riesz energy defined on the space of probability measures. The Riesz kernels define a quadratic functional on the space of measure which is not in general geodesically convex in the Wasserstein geometry, therefore one cannot conclude to global convergence of the Wasserstein gradient flow using standard arguments. Our main result is the exponential convergence of the flow to the minimizer on a closed Riemannian manifold under the condition that the logarithm of the source and target measures are Hölder continuous. To this goal, we first prove that the Polyak-Lojasiewicz inequality is satisfied for sufficiently regular solutions. The key regularity result is the global in-time existence of Hölder solutions if the initial and target data are Hölder continuous, proven either in Euclidean space or on a closed Riemannian manifold. For general measures, we prove using flow interchange techniques that there is no local minima other than the global one for the Coulomb kernel. In fact, we prove that a Lagrangian critical point of the functional for the Coulomb (or Energy distance) kernel is equal to the target everywhere except on singular sets with empty interior. In addition, singular enough measures cannot be critical points. [Link to the preprint.](https://hal.science/hal-04282762v1)
 
 - speaker: Maxime Taverne
-  affiliation: APHP - Necker Enfants Malades, Craniofacial Growth and Form lab
+  affiliation: APHP, Necker Enfants Malades, Craniofacial Growth and Form lab
   url: https://www.maximetaverne.fr/home
   date: Wednesday, 18 December 2024
   time: 12pm
   location: >
     the new Inria Paris centre (48 rue Barrault) in the Emmy Noether room (A002) on the ground floor, behind the auditorium.
-  title: Geometric morphometrics: from anthropology to clinical care
+  title: Geometric morphometrics, from anthropology to clinical care
   abstract: >
-    Maxime will present an overview of his research on the statistics of anatomical shapes - from lizard forearms to human skulls.
+    Maxime will present an overview of his research on the statistics of anatomical shapes, from lizard forearms to human skulls.
 
 - speaker: Olivier Couture
   affiliation: CNRS, Sorbonne University
@@ -46,13 +46,13 @@
     We will also describe recent developments in kidney imaging, where ULM offers new perspectives on the functional units of the organ, namely the nephron and its glomeruli, in both humans and animals. In the future, ULM could enable depth angiography at a scale currently only achievable through invasive modalities.
 
 - speaker: Open discussion
-  affiliation: ~
+  affiliation: collective
   url: https://shape-analysis.github.io/
   date: Wednesday, 6 November 2024
   time: 12pm
   location: >
     the seminar room of the MAP5 laboratory, 45 rue des Saints-Pères in Paris (7th floor) - [detailed path](https://map5.mi.parisdescartes.fr/accueil/acces-contact/).
-  title: Informal discussion on PhD students' projects.
+  title: Informal discussion on PhD students' projects
   abstract: >
     This will be an open group discussion about problems raised by the students who regularly attend the seminar.
 
