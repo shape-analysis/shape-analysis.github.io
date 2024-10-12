@@ -1,3 +1,15 @@
+- speaker: Maxime Taverne
+  affiliation: APHP, Necker Enfants Malades, Craniofacial Growth and Form lab
+  url: https://www.maximetaverne.fr/home
+  date: Wednesday, 19 February 2025
+  time: 12pm
+  location: >
+    TBA.
+  title: Geometric morphometrics, from anthropology to clinical care
+  abstract: >
+    Maxime will present an overview of his research on the statistics of anatomical shapes, from lizard forearms to human skulls.
+
+
 - speaker: Pascal Romon
   affiliation: Université Paris-Est Marne-la-Vallée - LAMA
   url: https://perso.math.u-pem.fr/romon.pascal/
@@ -20,16 +32,16 @@
   abstract: >
     In this work, we study the Wasserstein gradient flow of the Riesz energy defined on the space of probability measures. The Riesz kernels define a quadratic functional on the space of measure which is not in general geodesically convex in the Wasserstein geometry, therefore one cannot conclude to global convergence of the Wasserstein gradient flow using standard arguments. Our main result is the exponential convergence of the flow to the minimizer on a closed Riemannian manifold under the condition that the logarithm of the source and target measures are Hölder continuous. To this goal, we first prove that the Polyak-Lojasiewicz inequality is satisfied for sufficiently regular solutions. The key regularity result is the global in-time existence of Hölder solutions if the initial and target data are Hölder continuous, proven either in Euclidean space or on a closed Riemannian manifold. For general measures, we prove using flow interchange techniques that there is no local minima other than the global one for the Coulomb kernel. In fact, we prove that a Lagrangian critical point of the functional for the Coulomb (or Energy distance) kernel is equal to the target everywhere except on singular sets with empty interior. In addition, singular enough measures cannot be critical points. [Link to the preprint.](https://hal.science/hal-04282762v1)
 
-- speaker: Maxime Taverne
-  affiliation: APHP, Necker Enfants Malades, Craniofacial Growth and Form lab
-  url: https://www.maximetaverne.fr/home
+- speaker: TBA
+  affiliation: TBA
+  url: https://shape-analysis.github.io/
   date: Wednesday, 18 December 2024
   time: 12pm
   location: >
     the new Inria Paris centre (48 rue Barrault) in the Emmy Noether room (A002) on the ground floor, behind the auditorium.
-  title: Geometric morphometrics, from anthropology to clinical care
+  title: TBA
   abstract: >
-    Maxime will present an overview of his research on the statistics of anatomical shapes, from lizard forearms to human skulls.
+    TBA.
 
 - speaker: Olivier Couture
   affiliation: CNRS, Sorbonne University
