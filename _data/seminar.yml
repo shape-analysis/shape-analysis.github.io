@@ -69,16 +69,20 @@
     During this presentation, we will describe recent advances in ULM. In particular, we will show the three-dimensional reconstruction of the rat brain hemodynamics at the micrometer scale. A full-brain angiography at this scale will also be presented. We will discuss its application for the differentiation of strokes and its transfer to the clinical domain through intermediate experiments on the sheep brain and two-dimensional ULM with clinical ultrasound devices. All these developments aim to create a new imaging tool for stroke patients in intensive care, potentially reducing treatment time for ischemic patients.
     We will also describe recent developments in kidney imaging, where ULM offers new perspectives on the functional units of the organ, namely the nephron and its glomeruli, in both humans and animals. In the future, ULM could enable depth angiography at a scale currently only achievable through invasive modalities.
 
-- speaker: Open discussion
-  affiliation: collective
-  url: https://shape-analysis.github.io/
+
+- speaker: Jean Feydy
+  affiliation: Inria Paris, HeKA team
+  url: https://www.jeanfeydy.com/
   date: Wednesday, 6 November 2024
   time: 12pm
   location: >
     the seminar room of the MAP5 laboratory, 45 rue des Saints-Pères in Paris (7th floor) - [detailed path](https://map5.mi.parisdescartes.fr/accueil/acces-contact/).
-  title: Informal discussion on PhD students' projects
+  title: Producing great 3D figures with minimal effort
   abstract: >
-    This will be an open group discussion about problems raised by the students who regularly attend the seminar.
+    This will be a tutorial on the rendering of 3D data for scientific publications.
+    We will start from simple practical questions: how to load a 3D mesh, a vector field, a volumetric image.
+    Then, I will explain how to go from "plain" to "gorgeous" graphics with shadows, textures, animations or physical material models. Finally, I will discuss some advanced tricks to improve the legibility of complex 3D shapes such as brain vessel trees or volumetric CT scans.
+    I will rely on the Visualization ToolKit, a stable and versatile engine that can be used interactively with [Paraview](https://www.paraview.org/download/) and as a substitute for Matplotlib with [PyVista](https://docs.pyvista.org/) and [Vedo](https://vedo.embl.es/).
 
 
 - speaker: Thérèse E. Malliavin
