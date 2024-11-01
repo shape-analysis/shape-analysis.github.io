@@ -18,7 +18,8 @@ Every three weeks, we organize an in-person seminar in Paris around noon:
   - you are welcome to share the free **lunch** that we provide.
   - **Videos** for most presentations are available on YouTube [(click here)](https://www.youtube.com/watch?v=m68NjYSD7gU&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m68NjYSD7gU?si=a-Pvs-yTmxUVwgSq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/?listType=playlist&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+
 
 <br/>
 
