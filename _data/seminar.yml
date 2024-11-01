@@ -44,16 +44,17 @@
   abstract: >
     In this work, we study the Wasserstein gradient flow of the Riesz energy defined on the space of probability measures. The Riesz kernels define a quadratic functional on the space of measure which is not in general geodesically convex in the Wasserstein geometry, therefore one cannot conclude to global convergence of the Wasserstein gradient flow using standard arguments. Our main result is the exponential convergence of the flow to the minimizer on a closed Riemannian manifold under the condition that the logarithm of the source and target measures are Hölder continuous. To this goal, we first prove that the Polyak-Lojasiewicz inequality is satisfied for sufficiently regular solutions. The key regularity result is the global in-time existence of Hölder solutions if the initial and target data are Hölder continuous, proven either in Euclidean space or on a closed Riemannian manifold. For general measures, we prove using flow interchange techniques that there is no local minima other than the global one for the Coulomb kernel. In fact, we prove that a Lagrangian critical point of the functional for the Coulomb (or Energy distance) kernel is equal to the target everywhere except on singular sets with empty interior. In addition, singular enough measures cannot be critical points. [Link to the preprint.](https://hal.science/hal-04282762v1)
 
-- speaker: TBA
-  affiliation: TBA
-  url: https://shape-analysis.github.io/
+- speaker: Julien Tierny
+  affiliation: CNRS, Sorbonne University, École Polytechnique
+  url: https://julien-tierny.github.io/
   date: Wednesday, 18 December 2024
   time: 12pm
   location: >
     the new Inria Paris centre (48 rue Barrault), in the Emmy Noether room (A002) on the ground floor behind the auditorium.
-  title: TBA
+  title: Principal geodesic analysis of merge trees (and persistence diagrams)
   abstract: >
-    TBA.
+    This talk will present a computational framework for the Principal Geodesic Analysis of merge trees (MT-PGA), a novel adaptation of the celebrated Principal Component Analysis (PCA) framework to the Wasserstein metric space of merge trees. We formulate MT-PGA computation as a constrained optimization problem, aiming at adjusting a basis of orthogonal geodesic axes, while minimizing a fitting energy. We introduce an efficient, iterative algorithm which exploits shared-memory parallelism, as well as an analytic expression of the fitting energy gradient, to ensure fast iterations. Our approach also trivially extends to persistence diagrams.
+    Extensive experiments on public ensembles demonstrate the efficiency of our approach - with MT-PGA computations in the orders of minutes for the largest examples. We show the utility of our contributions by extending to merge trees two typical PCA applications. First, we apply MT-PGA to data reduction and reliably compress merge trees by concisely representing them by their first coordinates in the MT-PGA basis. Second, we present a dimensionality reduction framework exploiting the first two directions of the MT-PGA basis to generate two-dimensional layouts of the ensemble. We augment these layouts with persistence correlation views, enabling global and local visual inspections of the feature variability in the ensemble. In both applications, quantitative experiments assess the relevance of our framework. Finally, we provide a C++ implementat ion that can be used to reproduce our results.
 
 - speaker: Olivier Couture
   affiliation: CNRS, Sorbonne University
@@ -95,6 +96,7 @@
   title: Harnessing geometric information for calculating protein structures and exploring conformational space of disordered proteins
   abstract: >
     Structural bioinformatics plays an increasingly important role in the prediction and calculation of biopolymer structures, leading to a better definition of their function. In addition, intrinsically disordered proteins (IDP) and intrinsically disordered regions (IDR) are at the center of numerous regulation and control pathways in the cell, and attract consequently extreme interest nowadays in structural biology. The optimization problem that arises for protein structure determination is more complex for such objects as the convergence criterion is more difficult to set up and the size of the conformational space is a obstacle to exhaustive exploration. The threading-augmented interval Branch-and-Prune (TAiBP), based on a reformulation of the Distance Geometry Problem (DGP), provides a theoretical frame for the fast generation of protein conformations, avoiding the combinatorial explosion of the Branch-and-Prune approach due to exponential complexity. ([1](https://link.springer.com/article/10.1007/s10898-018-0635-0), [2](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00215)) The TAiBP pipeline was applied to a several disordered proteins ([3](https://www.nature.com/articles/s41598-021-96370-z), [4](https://www.nature.com/articles/s41598-022-21648-9), [5](https://link.springer.com/chapter/10.1007/978-3-031-38299-4_55)) and a Gaussian mixture approach RamaMix has been developed for the quantification of IDP conformations from the global distributions of backbone torsion angles. The presentation will be oriented to propose possible connections of the structural bioinformatics to the use of methods coming from optimal transport approaches. 
+  video: https://www.youtube.com/watch?v=zGbMlZTjDRI&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=19
 
 
 - speaker: Thomas Pierron
