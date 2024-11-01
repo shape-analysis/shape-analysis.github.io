@@ -18,6 +18,8 @@ Every three weeks, we organize an in-person seminar in Paris around noon:
   - you are welcome to share the free **lunch** that we provide.
   - **Videos** for most presentations are available on YouTube [(click here)](https://www.youtube.com/watch?v=m68NjYSD7gU&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m68NjYSD7gU?si=a-Pvs-yTmxUVwgSq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <br/>
 
 {% for oneitem in site.data.seminar %}
@@ -72,7 +74,7 @@ Every three weeks, we organize an in-person seminar in Paris around noon:
 
 To register to **shapes@inria.fr**, please:
 
-1. Send a message with title "**subscribe shapes Your Name**" to **[sympa_inria@inria.fr](mailto:sympa_inria@inria.fr?subject=subscribe shapes)**.
+1. Send a message with title "**subscribe shapes Your Name**" to **[<span style="color:red">sympa_inria</span>@inria.fr](mailto:sympa_inria@inria.fr?subject=subscribe shapes)**.
 2. You will then receive an **invite link**. <span style="color:red">**Don't forget to click on it**</span>, or you won't be registered as a subscriber!
 
 <br/>
