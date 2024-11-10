@@ -51,10 +51,9 @@
   time: 12pm
   location: >
     the new Inria Paris centre (48 rue Barrault), in the Emmy Noether room (A002) on the ground floor behind the auditorium.
-  title: Principal geodesic analysis of merge trees (and persistence diagrams)
+  title: Topological analysis of massive datasets
   abstract: >
-    This talk will present a computational framework for the Principal Geodesic Analysis of merge trees (MT-PGA), a novel adaptation of the celebrated Principal Component Analysis (PCA) framework to the Wasserstein metric space of merge trees. We formulate MT-PGA computation as a constrained optimization problem, aiming at adjusting a basis of orthogonal geodesic axes, while minimizing a fitting energy. We introduce an efficient, iterative algorithm which exploits shared-memory parallelism, as well as an analytic expression of the fitting energy gradient, to ensure fast iterations. Our approach also trivially extends to persistence diagrams.
-    Extensive experiments on public ensembles demonstrate the efficiency of our approach - with MT-PGA computations in the orders of minutes for the largest examples. We show the utility of our contributions by extending to merge trees two typical PCA applications. First, we apply MT-PGA to data reduction and reliably compress merge trees by concisely representing them by their first coordinates in the MT-PGA basis. Second, we present a dimensionality reduction framework exploiting the first two directions of the MT-PGA basis to generate two-dimensional layouts of the ensemble. We augment these layouts with persistence correlation views, enabling global and local visual inspections of the feature variability in the ensemble. In both applications, quantitative experiments assess the relevance of our framework. Finally, we provide a C++ implementat ion that can be used to reproduce our results.
+    Topological Data Analysis (TDA) is a recent area of computer science that focuses on discovering intrinsic structures hidden in data. Based on sound mathematical foundations such as Morse theory and Persistent Homology, TDA enables the robust extraction of the main features of a dataset into stable, concise, and multi-scale descriptors that facilitate data analysis and interpretation. In this talk, I will give an intuitive overview of the main tools used in TDA, and I will illustrate their application in a concrete use-case in computational fluid dynamics. This talk will be illustrated with results produced with the "Topology ToolKit" (TTK), an open-source library (BSD license) that we develop with collaborators to showcase our research. Tutorials for re-producing these experiments are available on the [TTK website](https://topology-tool-kit.github.io/).
 
 - speaker: Olivier Couture
   affiliation: CNRS, Sorbonne University
@@ -84,6 +83,8 @@
     We will start from simple practical questions: how to load a 3D mesh, a vector field, a volumetric image.
     Then, I will explain how to go from "plain" to "gorgeous" graphics with shadows, textures, animations or physical material models. Finally, I will discuss some advanced tricks to improve the legibility of complex 3D shapes such as brain vessel trees or volumetric CT scans.
     I will rely on the Visualization ToolKit, a stable and versatile engine that can be used interactively with [Paraview](https://www.paraview.org/download/) and as a substitute for Matplotlib with [PyVista](https://docs.pyvista.org/) and [Vedo](https://vedo.embl.es/).
+  video: https://www.youtube.com/watch?v=NsF4Rifh0Yw&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=20
+  slides: https://www.jeanfeydy.com/Talks/ShapeSeminar_2024/ShapeSeminar_2024.pdf
 
 
 - speaker: Thérèse E. Malliavin
