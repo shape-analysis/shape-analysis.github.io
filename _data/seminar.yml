@@ -1,3 +1,19 @@
+- speaker: Olivier Couture
+  affiliation: CNRS, Sorbonne University
+  url: https://www.researchgate.net/profile/Olivier-Couture
+  date: Wednesday, 26 March 2025
+  time: 12pm
+  location: >
+    TBA.
+  title: Volumetric ultrasound localization microscopy
+  abstract: >
+    Ultrasound imaging is a widely used medical technique sensitive to blood flow. However, it is limited by a classic tradeoff between penetration and resolution. In particular, brain imaging and ultrasound angiography are compromised by the skull, which attenuates the acoustic waves, especially those that could provide submillimeter details.
+    Ultrasound localization microscopy (ULM) is a technique that provides very high-resolution depth imaging in tissues. It relies on clinical contrast agents, called microbubbles, which are isolated and localized at the micrometer scale in ultrasound images. Tracking their trajectories can provide blood speeds in the microcirculation. This technique has been demonstrated in the brain (Errico et al. Nature 2015), as well as in the kidney, tumors, peripheral vessels and lymph nodes, in both humans and animals (see the review in Couture et al. IEEE UFFC 2018, Christensen-Jeffries et al. UMB 2020 or Song et al. "Super-resolution ultrasound microvascular imaging: Is it ready for clinical use?" 2023).
+    During this presentation, we will describe recent advances in ULM. In particular, we will show the three-dimensional reconstruction of the rat brain hemodynamics at the micrometer scale. A full-brain angiography at this scale will also be presented. We will discuss its application for the differentiation of strokes and its transfer to the clinical domain through intermediate experiments on the sheep brain and two-dimensional ULM with clinical ultrasound devices. All these developments aim to create a new imaging tool for stroke patients in intensive care, potentially reducing treatment time for ischemic patients.
+    We will also describe recent developments in kidney imaging, where ULM offers new perspectives on the functional units of the organ, namely the nephron and its glomeruli, in both humans and animals. In the future, ULM could enable depth angiography at a scale currently only achievable through invasive modalities.
+
+
+
 - speaker: Clément Zanolli
   affiliation: Laboratory PACEA, University of Bordeaux, CNRS
   url: https://www.pacea.u-bordeaux.fr/zanolli-clament/
@@ -55,19 +71,18 @@
   abstract: >
     Topological Data Analysis (TDA) is a recent area of computer science that focuses on discovering intrinsic structures hidden in data. Based on sound mathematical foundations such as Morse theory and Persistent Homology, TDA enables the robust extraction of the main features of a dataset into stable, concise, and multi-scale descriptors that facilitate data analysis and interpretation. In this talk, I will give an intuitive overview of the main tools used in TDA, and I will illustrate their application in a concrete use-case in computational fluid dynamics. This talk will be illustrated with results produced with the "Topology ToolKit" (TTK), an open-source library (BSD license) that we develop with collaborators to showcase our research. Tutorials for re-producing these experiments are available on the [TTK website](https://topology-tool-kit.github.io/).
 
-- speaker: Olivier Couture
-  affiliation: CNRS, Sorbonne University
-  url: https://www.researchgate.net/profile/Olivier-Couture
+
+- speaker: Josua Sassen
+  affiliation: École Normale Supérieure Paris-Saclay
+  url: https://josuasassen.com/
   date: Wednesday, 27 November 2024
   time: 12pm
   location: >
     the seminar room of the MAP5 laboratory, 45 rue des Saints-Pères in Paris (7th floor) - [detailed path](https://map5.mi.parisdescartes.fr/accueil/acces-contact/).
-  title: Volumetric ultrasound localization microscopy
+  title: Repulsive Shells
   abstract: >
-    Ultrasound imaging is a widely used medical technique sensitive to blood flow. However, it is limited by a classic tradeoff between penetration and resolution. In particular, brain imaging and ultrasound angiography are compromised by the skull, which attenuates the acoustic waves, especially those that could provide submillimeter details.
-    Ultrasound localization microscopy (ULM) is a technique that provides very high-resolution depth imaging in tissues. It relies on clinical contrast agents, called microbubbles, which are isolated and localized at the micrometer scale in ultrasound images. Tracking their trajectories can provide blood speeds in the microcirculation. This technique has been demonstrated in the brain (Errico et al. Nature 2015), as well as in the kidney, tumors, peripheral vessels and lymph nodes, in both humans and animals (see the review in Couture et al. IEEE UFFC 2018, Christensen-Jeffries et al. UMB 2020 or Song et al. "Super-resolution ultrasound microvascular imaging: Is it ready for clinical use?" 2023).
-    During this presentation, we will describe recent advances in ULM. In particular, we will show the three-dimensional reconstruction of the rat brain hemodynamics at the micrometer scale. A full-brain angiography at this scale will also be presented. We will discuss its application for the differentiation of strokes and its transfer to the clinical domain through intermediate experiments on the sheep brain and two-dimensional ULM with clinical ultrasound devices. All these developments aim to create a new imaging tool for stroke patients in intensive care, potentially reducing treatment time for ischemic patients.
-    We will also describe recent developments in kidney imaging, where ULM offers new perspectives on the functional units of the organ, namely the nephron and its glomeruli, in both humans and animals. In the future, ULM could enable depth angiography at a scale currently only achievable through invasive modalities.
+    This paper develops a shape space framework for collision-aware geometric modeling, where basic geometric operations automatically avoid interpenetration. Shape spaces are a powerful tool for surface modeling, shape analysis, nonrigid motion planning, and animation, but past formulations permit nonphysical intersections. Our framework augments an existing shape space using a repulsive energy such that collision avoidance becomes a first-class property, encoded in the Riemannian metric itself. In turn, tasks like intersection-free shape interpolation or motion extrapolation amount to simply computing geodesic paths via standard numerical algorithms. To make optimization practical, we develop an adaptive collision penalty that prevents mesh self-intersection, and converges to a meaningful limit energy under refinement. The final algorithms apply to any category of shape, and do not require a dataset of examples, training, rigging, nor any other prior information. For instance, to interpolate between two shapes we need only a single pair of meshes with the same connectivity. We evaluate our method on a variety of challenging examples from modeling and animation.
+    [Project page.](https://www.cs.cmu.edu/~kmcrane/Projects/RepulsiveShells/index.html)
 
 
 - speaker: Jean Feydy
