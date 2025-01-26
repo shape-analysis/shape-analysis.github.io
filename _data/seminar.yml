@@ -44,7 +44,7 @@
   date: Wednesday, 29 January 2025
   time: 12pm
   location: >
-    the seminar room of the MAP5 laboratory, 45 rue des Saints-Pères in Paris (7th floor) - [detailed path](https://map5.mi.parisdescartes.fr/accueil/acces-contact/).
+    the new Inria Paris centre (48 rue Barrault), in the cafeteria on the 3rd floor for lunch, and in the Maryam Mirzakhani room (B302) for the presentation.
   title: Lightweight curvature estimation on point clouds with randomized corrected curvature measures
   abstract: >
     The estimation of differential quantities on oriented point cloud is a classical step for many geometry processing tasks in computer graphics and vision. Even if many solutions exist to estimate such quantities, they usually fail at satisfying both a stable estimation with theoretical guarantee, and the efficiency of the associated algorithm. Relying on the notion of corrected curvature measures designed for surfaces, the method introduced in this paper meets both requirements. Given a point of interest and a few nearest neighbours, our method estimates the whole curvature tensor information by generating random triangles within these neighbours and normalising the corrected curvature measures by the corrected area measure. We provide a stability theorem showing that our pointwise curvatures are accurate and convergent, provided the noise in position and normal information has a variance smaller than the radius of neighbourhood. Experiments and comparisons with the state-of-the-art confirm that our approach is more accurate and much faster than alternatives. The method is fully parallelizable, requires only one nearest neighbour request per point of computation, and is trivial to implement.
