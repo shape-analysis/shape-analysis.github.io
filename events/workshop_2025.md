@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Shape analysis workshop - July 2025 "
+title: "AfterShape 2025 "
 description: "To celebrate Alain Trouvé's 60th birthday."
 background: "../../img/banner_3.png"
 ---
