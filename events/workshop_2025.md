@@ -1,14 +1,14 @@
 ---
 layout: page
-title: "Shape analysis"
-description: "AfterShape 2025"
+title: "Shape analysis workshop - July 2025 "
+description: "To celebrate Alain Trouvé's 60th birthday."
 background: "../../img/banner_3.png"
 ---
 
 
-**Where:** ENS Paris-Saclay.
+**Where:** [ENS Paris-Saclay](https://centreborelli.ens-paris-saclay.fr/en).
 
-**When:** 2025, July 3 and 4.
+**When:** 2025, July 3rd and 4th.
 
 ## Registration
 
