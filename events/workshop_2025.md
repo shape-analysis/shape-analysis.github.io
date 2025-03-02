@@ -2,7 +2,7 @@
 layout: page
 title: "Shape analysis"
 description: "AfterShape 2025"
-background: "../img/banner_3.png"
+background: "../../img/banner_3.png"
 ---
 
 
@@ -12,7 +12,7 @@ background: "../img/banner_3.png"
 
 ## Registration
 
-Registration is free but mandatory. Due to the limited number of seats, you should first preregister at [this adress]().
+Registration is free but mandatory. Due to the limited number of seats, you should first preregister at [this adress](https://forms.gle/QEpjsf2sLF8eRRwZ8).
 
 ## Program
 
