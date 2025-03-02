@@ -21,7 +21,7 @@ Registration is free but mandatory. Due to the limited number of seats, you shou
 - [Michael I. Miller](https://www.bme.jhu.edu/people/faculty/michael-i-miller/).
 - [Laurent Younes](https://www.cis.jhu.edu/~younes/).
 - [Peter Michor](https://www.mat.univie.ac.at/~michor/listpubl.html).
-- Lunch break.
+- **Lunch break.**
 - [Xavier Pennec](https://www-sop.inria.fr/members/Xavier.Pennec/).
 - [Sarang Joshi](https://www.sci.utah.edu/people/sjoshi.html).
 - [Vianney Debavelaere](https://scholar.google.fr/citations?user=4o9y9LoAAAAJ&hl=en) and [Tom Boeken](https://www.aphp.fr/offre-de-soin/medecin/4064173/075/57).
@@ -31,6 +31,7 @@ Registration is free but mandatory. Due to the limited number of seats, you shou
 
 - [Mathilde Mougeot](https://sites.google.com/site/mougeotmathilde/).
 - [Mohamed Daoudi](https://sites.google.com/view/mohameddaoudi).
+- **Lunch break**
 - [Gilles Blanchard](https://www.imo.universite-paris-saclay.fr/~gilles.blanchard/).
 - [Joan Glaunès](https://helios2.mi.parisdescartes.fr/~glaunes/).
 - [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) and [Stanley Durrleman](https://who.rocq.inria.fr/Stanley.Durrleman/).
