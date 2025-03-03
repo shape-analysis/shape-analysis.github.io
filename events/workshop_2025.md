@@ -2,7 +2,7 @@
 layout: page
 title: "AfterShape 2025 "
 description: "To celebrate Alain Trouvé's 60th birthday."
-background: "../../img/banner_3.png"
+background: "../../img/banner_5.png"
 ---
 
 
