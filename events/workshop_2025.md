@@ -11,7 +11,7 @@ background: "../../img/banner_5.png"
 ### 📍 Where?
 
 <a href="https://centreborelli.ens-paris-saclay.fr/en">
-  <img src="https://ens-paris-saclay.fr/sites/default/files/Batiment/2020_11_Bat_nord2_M_DenanceRPBW.jpg" alt="ENS Paris-Saclay" width="300"/><strong>ENS Paris-Saclay</strong>
+  <img src="https://ens-paris-saclay.fr/sites/default/files/Batiment/2020_11_Bat_nord2_M_DenanceRPBW.jpg" alt="ENS Paris-Saclay" width="2s00"/><strong>ENS Paris-Saclay</strong>
 </a> – *Amphi Hodgkin*.
 
 ## Registration
@@ -20,6 +20,8 @@ We are pleased to offer lunch breaks for all participants. To help us plan accor
 
 
 ## Program
+
+<br />
 
 ### Thursday, July 3rd 2025
 
