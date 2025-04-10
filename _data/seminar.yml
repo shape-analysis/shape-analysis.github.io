@@ -24,6 +24,7 @@
   title: How the evolution of 3D imaging methods helps us to understand hominin evolution
   abstract: >
     Since the 19th century, the study of human evolution has mostly been based on the study of morphological variation observed in the fossil record. The use of "classic" paleoanthropological approaches using linear measurements and visual descriptions has now moved to the three-dimensional quantification of size and shape thanks to the development of virtual imaging approaches. Since the first use of X-ray microtomography on a hominin tooth in 2004, the field of virtual paleoanthropology has successfully grown and has become state-of-the-art for the study of the external and internal structure of fossil teeth and bones. In parallel, geometric morphometric approaches became a standard method to finely characterize morphological variation and, coupled with statistical methods, improve our understanding of hominin evolution. This presentation will show a few examples of application of 3D imaging techniques that contributed to resolving scientific questions related to hominin diversity and their evolutionary trajectories.
+  video: https://www.youtube.com/watch?v=Q02qiH6laig&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=24
 
 
 - speaker: Maxime Taverne
@@ -36,6 +37,7 @@
   title: Geometric morphometrics, from anthropology to clinical care
   abstract: >
     Maxime will present an overview of his research on the statistics of anatomical shapes, from lizard forearms to human skulls.
+  video: https://www.youtube.com/watch?v=aHy5DMaYrLU&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=23
 
 
 - speaker: Pascal Romon
@@ -70,6 +72,7 @@
   title: Topological analysis of massive datasets
   abstract: >
     Topological Data Analysis (TDA) is a recent area of computer science that focuses on discovering intrinsic structures hidden in data. Based on sound mathematical foundations such as Morse theory and Persistent Homology, TDA enables the robust extraction of the main features of a dataset into stable, concise, and multi-scale descriptors that facilitate data analysis and interpretation. In this talk, I will give an intuitive overview of the main tools used in TDA, and I will illustrate their application in a concrete use-case in computational fluid dynamics. This talk will be illustrated with results produced with the "Topology ToolKit" (TTK), an open-source library (BSD license) that we develop with collaborators to showcase our research. Tutorials for re-producing these experiments are available on the [TTK website](https://topology-tool-kit.github.io/).
+  video: https://www.youtube.com/watch?v=jPj2gaLRoLo&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=22
 
 
 - speaker: Josua Sassen
@@ -83,6 +86,7 @@
   abstract: >
     This paper develops a shape space framework for collision-aware geometric modeling, where basic geometric operations automatically avoid interpenetration. Shape spaces are a powerful tool for surface modeling, shape analysis, nonrigid motion planning, and animation, but past formulations permit nonphysical intersections. Our framework augments an existing shape space using a repulsive energy such that collision avoidance becomes a first-class property, encoded in the Riemannian metric itself. In turn, tasks like intersection-free shape interpolation or motion extrapolation amount to simply computing geodesic paths via standard numerical algorithms. To make optimization practical, we develop an adaptive collision penalty that prevents mesh self-intersection, and converges to a meaningful limit energy under refinement. The final algorithms apply to any category of shape, and do not require a dataset of examples, training, rigging, nor any other prior information. For instance, to interpolate between two shapes we need only a single pair of meshes with the same connectivity. We evaluate our method on a variety of challenging examples from modeling and animation.
     [Project page.](https://www.cs.cmu.edu/~kmcrane/Projects/RepulsiveShells/index.html)
+  video: https://www.youtube.com/watch?v=NlFlfW-jmJc&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=21
 
 
 - speaker: Jean Feydy
