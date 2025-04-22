@@ -45,6 +45,7 @@ We are pleased to offer lunch breaks for all participants. To help us plan accor
 ### Friday, July 4th 2025
 
 **Statistical Learning with shapes**
+- [Yali Amit](https://www.stat.uchicago.edu/~amit/).
 - [Mathilde Mougeot](https://sites.google.com/site/mougeotmathilde/).
 - [Mohamed Daoudi](https://sites.google.com/view/mohameddaoudi).
 
