@@ -1,3 +1,15 @@
+- speaker: Rayane Mouhli
+  affiliation: Université Paris Cité and Sorbonne Université
+  url: https://rayanemouhli.github.io/
+  date: Tuesday, 20 May 2025
+  time: 12pm
+  location: >
+    the new Inria Paris centre (48 rue Barrault), in the Café Circus restaurant (204 rue de Tolbiac) for lunch, and in the Grace Hopper room (B601) for the presentation at 1.30pm.
+  title: Decorrelation of vector fields with speed of varifolds
+  abstract: >
+    To perform a registration task, various types of diffeomorphic deformations can be combined to leverage their intrinsic properties (e.g., scales, linearity) or to incorporate prior knowledge (e.g., modules). To have a better interpretability of the model and to prevent the overlapping of the two types of deformations, their action on a shape have to be as "orthogonal" as possible. We introduce a quantification of the correlation between two deformations as the difference of the speeds of a varifold associated to a shape in the direction of both vector fields representing the two deformations.
+
+
 - speaker: Olivier Couture
   affiliation: CNRS, Sorbonne University
   url: https://www.researchgate.net/profile/Olivier-Couture
