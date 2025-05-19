@@ -36,7 +36,7 @@ We are pleased to offer lunch breaks for all participants. To help us plan accor
 - [Xavier Pennec](https://www-sop.inria.fr/members/Xavier.Pennec/).
 - [Sarang Joshi](https://www.sci.utah.edu/people/sjoshi.html).
 - [Vianney Debavelaere](https://scholar.google.fr/citations?user=4o9y9LoAAAAJ&hl=en) and [Tom Boeken](https://www.aphp.fr/offre-de-soin/medecin/4064173/075/57).
-- [David Mumford](https://www.dam.brown.edu/people/mumford/), [Jean-Michel Courty](https://www.lkb.fr/quantumtheory/people/jean-michel-courty/) and [François Sauvageot](http://smai.emath.fr/maddmaths/5/francois_sauvageot.html).
+- [Jean-Michel Courty](https://www.lkb.fr/quantumtheory/people/jean-michel-courty/) and [François Sauvageot](http://smai.emath.fr/maddmaths/5/francois_sauvageot.html).
 
 
 *Dinner*
