@@ -1,3 +1,15 @@
+- speaker: Anton François
+  affiliation: ENS Paris-Saclay
+  url: https://antonfrancois.github.io/
+  date: Tuesday, 17 June 2025
+  time: 12pm
+  location: >
+    the new Inria Paris centre (48 rue Barrault), in the cafeteria on the 3rd floor for lunch, and in the Paul Erdős room (A115) for the presentation at 1pm.
+  title: Longitudinal MRI Registration: Implementing Metamorphoses on the Simplex with a focus on GPU-memory optimisation
+  abstract: >
+    In this presentation, we will discuss my post-doctoral project, which aims to perform longitudinal registration of brains with glioblastomas on MRI images with values in the simplex - seen as probability vectors. We will begin by describing the metamorphoses on the simplex and their implementation using the Fisher-Rao metric. We will also detail the optimisation work required to perform these calculations on images of adequate resolution. Our approach includes the use of Torch checkpoints as well as a review of the L-BFGS algorithm. Finally, as a perspective, we will discuss a data-driven strategy to achieve these registrations on these specific data.
+
+
 - speaker: Rayane Mouhli
   affiliation: Université Paris Cité and Sorbonne Université
   url: https://rayanemouhli.github.io/
