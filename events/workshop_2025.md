@@ -10,11 +10,16 @@ background: "../../img/banner_5.png"
 
 ### 📍 Where?
 
-<a href="https://centreborelli.ens-paris-saclay.fr/en">
-  <img src="https://ens-paris-saclay.fr/sites/default/files/Batiment/2020_11_Bat_nord2_M_DenanceRPBW.jpg" alt="ENS Paris-Saclay" width="200"/><strong>ENS Paris-Saclay</strong>
-</a> – *Amphi Hodgkin*.
+<div style="display: flex; align-items: flex-start;">
+  <a href="https://centreborelli.ens-paris-saclay.fr/en">
+    <img src="https://ens-paris-saclay.fr/sites/default/files/Batiment/2020_11_Bat_nord2_M_DenanceRPBW.jpg" alt="ENS Paris-Saclay" width="200" style="margin-right: 20px;"/>
+  </a>
+  <div>
+    <strong>ENS Paris-Saclay</strong> campus is located in Gif-sur-Yvette (south of Paris). You can reach us easily by public transport via the RER B line to Gif-sur-Yvette station, followed by a short bus ride or nice walk. <a href="https://www.google.com/maps/dir//%C3%89cole+normale+sup%C3%A9rieure+Paris-Saclay,+4+Av.+des+Sciences,+91190+Gif-sur-Yvette/@48.7123564,2.162753,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x47e67124d0aa37cb:0x9fa50097ff8f105a!2m2!1d2.1649417!2d48.7123564">Plan itinerary</a>. All sessions will be held in <strong>Amphi Hodgkin</strong> at ENS Paris-Saclay, on the ground level, to the left after the main ENS entrance.
+  </div>
+</div>
 
-Centre Borelli is located within the ENS Paris-Saclay campus in Gif-sur-Yvette. You can reach us easily by public transport via the RER B line to Gif-sur-Yvette station, followed by a short bus ride or nice walk. <a href="https://www.google.com/maps/dir//%C3%89cole+normale+sup%C3%A9rieure+Paris-Saclay,+4+Av.+des+Sciences,+91190+Gif-sur-Yvette/@48.7123564,2.162753,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x47e67124d0aa37cb:0x9fa50097ff8f105a!2m2!1d2.1649417!2d48.7123564">Plan itinerary</a>.
+
 
 ## Registration
 
@@ -27,7 +32,8 @@ We are pleased to offer lunch breaks for all participants. To help us plan accor
 
 ### Thursday, July 3rd 2025
 
-**Theory of shapes**
+**Theory of shapes** (Amphi Hodgkin)
+
 - **09:00 - 09:30:** *Welcome Coffee*
 - **09:30 - 09:40:** Opening
 - **09:40 - 10:30:** [Michael I. Miller](https://www.bme.jhu.edu/people/faculty/michael-i-miller/)
@@ -37,7 +43,8 @@ We are pleased to offer lunch breaks for all participants. To help us plan accor
 
 *Lunch break*
 
-**Shapes in Biology and Medicine**
+**Shapes in Biology and Medicine** (Amphi Hodgkin)
+
 - **14:00 - 14:50:** [Xavier Pennec](https://www-sop.inria.fr/members/Xavier.Pennec/)
 - **14:50 - 15:40:** [Sarang Joshi](https://www.sci.utah.edu/people/sjoshi.html)
 - **15:40 - 16:10:** *Pause*
@@ -47,7 +54,7 @@ We are pleased to offer lunch breaks for all participants. To help us plan accor
 
 ### Friday, July 4th 2025
 
-**Statistical Learning with shapes**
+**Statistical Learning with shapes** (Amphi Hodgkin)
 
 - **09:00 - 09:30:** *Welcome Coffee*
 - **09:30 - 10:10:** [Yali Amit](https://www.stat.uchicago.edu/~amit/)
@@ -58,7 +65,7 @@ We are pleased to offer lunch breaks for all participants. To help us plan accor
 
 *Lunch break*
 
-**After Shape community**
+**After Shape community** (Amphi Hodgkin)
 
 - **14:00 - 14:15:** [Gilles Blanchard](https://www.imo.universite-paris-saclay.fr/~gilles.blanchard/)
 - **14:15 - 14:30:** [Joan Glaunès](https://helios2.mi.parisdescartes.fr/~glaunes/)
