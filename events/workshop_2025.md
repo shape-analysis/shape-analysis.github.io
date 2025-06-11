@@ -37,13 +37,12 @@ We are pleased to offer lunch breaks for all participants. To help us plan accor
 
 *Lunch break*
 
-* **12:40 - 14:00:** *Lunch break*
-
-* **14:00 - 14:50:** [Xavier Pennec](https://www-sop.inria.fr/members/Xavier.Pennec/)
-* **14:50 - 15:40:** [Sarang Joshi](https://www.sci.utah.edu/people/sjoshi.html)
-* **15:40 - 16:10:** *Pause*
-* **16:10 - 17:00:** [Vianney Debavelaere](https://scholar.google.fr/citations?user=4o9y9LoAAAAJ&hl=en) and [Tom Boeken](https://www.aphp.fr/offre-de-soin/medecin/4064173/075/57)
-* **17:00 - 17:50:** [Jean-Michel Courty](https://www.lkb.fr/quantumtheory/people/jean-michel-courty/) and [François Sauvageot](http://smai.emath.fr/maddmaths/5/francois_sauvageot.html).
+**Shapes in Biology and Medicine**
+- **14:00 - 14:50:** [Xavier Pennec](https://www-sop.inria.fr/members/Xavier.Pennec/)
+- **14:50 - 15:40:** [Sarang Joshi](https://www.sci.utah.edu/people/sjoshi.html)
+- **15:40 - 16:10:** *Pause*
+- **16:10 - 17:00:** [Vianney Debavelaere](https://scholar.google.fr/citations?user=4o9y9LoAAAAJ&hl=en) and [Tom Boeken](https://www.aphp.fr/offre-de-soin/medecin/4064173/075/57)
+- **17:00 - 17:50:** [Jean-Michel Courty](https://www.lkb.fr/quantumtheory/people/jean-michel-courty/) and [François Sauvageot](http://smai.emath.fr/maddmaths/5/francois_sauvageot.html).
 
 
 ### Friday, July 4th 2025
@@ -55,9 +54,9 @@ We are pleased to offer lunch breaks for all participants. To help us plan accor
 - **10:10 - 10:40:** *Pause*
 - **10:40 - 11:20:** [Mathilde Mougeot](https://sites.google.com/site/mougeotmathilde/)
 - **11:20 - 12:00:** [Mohamed Daoudi](https://sites.google.com/view/mohameddaoudi)
-- **12:00 - 12:40:** Siwan Boufadene (à confirmer)
+- **12:00 - 12:40:** Siwan Boufadene
 
-**12:40 - 14:00:** *Lunch break*
+*Lunch break*
 
 **After Shape community**
 
