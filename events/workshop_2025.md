@@ -57,11 +57,10 @@ We are pleased to offer lunch breaks for all participants. To help us plan accor
 **Statistical Learning with shapes** (Amphi Hodgkin)
 
 - **09:00 - 09:30:** *Welcome Coffee*
-- **09:30 - 10:10:** [Yali Amit](https://www.stat.uchicago.edu/~amit/)
-- **10:10 - 10:40:** *Pause*
-- **10:40 - 11:20:** [Mathilde Mougeot](https://sites.google.com/site/mougeotmathilde/)
-- **11:20 - 12:00:** [Mohamed Daoudi](https://sites.google.com/view/mohameddaoudi)
-- **12:00 - 12:40:** Siwan Boufadene
+- **09:30 - 10:20:** [Yali Amit](https://www.stat.uchicago.edu/~amit/)
+- **10:20 - 10:50:** *Pause*
+- **10:50 - 11:40:** [Mathilde Mougeot](https://sites.google.com/site/mougeotmathilde/)
+- **11:40 - 12:30:** [Mohamed Daoudi](https://sites.google.com/view/mohameddaoudi)
 
 *Lunch break*
 
