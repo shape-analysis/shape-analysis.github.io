@@ -46,7 +46,7 @@ We are pleased to offer lunch breaks for all participants. To help us plan accor
 **Shapes in Biology and Medicine** (Amphi Hodgkin)
 
 - **14:00 - 14:50:** [Vianney Debavelaere](https://scholar.google.fr/citations?user=4o9y9LoAAAAJ&hl=en) and [Tom Boeken](https://www.aphp.fr/offre-de-soin/medecin/4064173/075/57)
-- **14:50 - 15:40:** [Sarang Joshi](https://www.sci.utah.edu/people/sjoshi.html)
+- **14:50 - 15:40:** 
 - **15:40 - 16:10:** *Pause*
 - **16:10 - 17:00:** [Xavier Pennec](https://www-sop.inria.fr/members/Xavier.Pennec/)
 - **17:00 - 17:50:** [Jean-Michel Courty](https://www.lkb.fr/quantumtheory/people/jean-michel-courty/) and [François Sauvageot](http://smai.emath.fr/maddmaths/5/francois_sauvageot.html).
