@@ -39,7 +39,7 @@ We are pleased to offer lunch breaks for all participants. To help us plan accor
 - **11:00 - 11:50:** [Laurent Younès](https://www.cis.jhu.edu/~younes/) -- Large deformation diffeomorphic metric mapping of measures (LDDMMM?): a review
 - **10:30 - 11:00:** *Pause*
 - **09:40 - 10:30:** [Michael I. Miller](https://www.bme.jhu.edu/people/faculty/michael-i-miller/) -- Models for petascale neuroimaging
-- **11:50 - 12:40:** [Peter Michor](https://www.mat.univie.ac.at/~michor/listpubl.html) -- Trouv' groups: unbalanced Riemannian metric transport and the Wasserstein-Ebin metric
+- **11:50 - 12:40:** [Peter Michor](https://www.mat.univie.ac.at/~michor/listpubl.html) -- Trouvé groups: unbalanced Riemannian metric transport and the Wasserstein-Ebin metric
 
 *Lunch break*
 
