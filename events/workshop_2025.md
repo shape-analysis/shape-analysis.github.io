@@ -36,10 +36,10 @@ We are pleased to offer lunch breaks for all participants. To help us plan accor
 
 - **09:00 - 09:30:** *Welcome Coffee*
 - **09:30 - 09:40:** Opening
-- **09:40 - 10:30:** [Michael I. Miller](https://www.bme.jhu.edu/people/faculty/michael-i-miller/)
+- **11:00 - 11:50:** [Laurent Younès](https://www.cis.jhu.edu/~younes/) -- Large deformation diffeomorphic metric mapping of measures (LDDMMM?): a review
 - **10:30 - 11:00:** *Pause*
-- **11:00 - 11:50:** [Laurent Younès](https://www.cis.jhu.edu/~younes/)
-- **11:50 - 12:40:** [Peter Michor](https://www.mat.univie.ac.at/~michor/listpubl.html)
+- **09:40 - 10:30:** [Michael I. Miller](https://www.bme.jhu.edu/people/faculty/michael-i-miller/) -- Models for petascale neuroimaging
+- **11:50 - 12:40:** [Peter Michor](https://www.mat.univie.ac.at/~michor/listpubl.html) -- Trouv' groups: unbalanced Riemannian metric transport and the Wasserstein-Ebin metric
 
 *Lunch break*
 
@@ -49,7 +49,7 @@ We are pleased to offer lunch breaks for all participants. To help us plan accor
 - **14:50 - 15:40:** 
 - **15:40 - 16:10:** *Pause*
 - **16:10 - 17:00:** [Xavier Pennec](https://www-sop.inria.fr/members/Xavier.Pennec/)
-- **17:00 - 17:50:** [Jean-Michel Courty](https://www.lkb.fr/quantumtheory/people/jean-michel-courty/) and [François Sauvageot](http://smai.emath.fr/maddmaths/5/francois_sauvageot.html).
+- **17:00 - 17:50:** [Jean-Michel Courty](https://www.lkb.fr/quantumtheory/people/jean-michel-courty/) and [François Sauvageot](http://smai.emath.fr/maddmaths/5/francois_sauvageot.html) -- Souvenirs d'apprentis sages
 
 
 ### Friday, July 4th 2025
