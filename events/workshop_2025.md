@@ -60,7 +60,7 @@ We are pleased to offer lunch breaks for all participants. To help us plan accor
 - **09:30 - 10:20:** [Yali Amit](https://www.stat.uchicago.edu/~amit/)
 - **10:20 - 10:50:** *Pause*
 - **10:50 - 11:40:** [Mathilde Mougeot](https://sites.google.com/site/mougeotmathilde/)
-- **11:40 - 12:30:** [Mohamed Daoudi](https://sites.google.com/view/mohameddaoudi)
+- **11:40 - 12:30:** [Mohamed Daoudi](https://sites.google.com/view/mohameddaoudi) -- Face Shape Analysis and Synthesis
 
 *Lunch break*
 
@@ -76,3 +76,9 @@ We are pleased to offer lunch breaks for all participants. To help us plan accor
 - **16:05 - 16:25:** [Irène Kaltenmark](https://sites.google.com/site/irenekaltenmark/) and [Barbara Gris](http://gris.perso.math.cnrs.fr/fr/)
 - **16:25 - 16:40:** [Jean Feydy](https://www.jeanfeydy.com/)
 - **16:40 - 16:55:** [Elodie Maignant](https://elodiemaignant.github.io/)
+
+
+### Sponsors
+
+  
+<img src="../../img/logos.png" alt="logo" width="350" style="margin-right: 20px;"/>
