@@ -36,9 +36,9 @@ We are pleased to offer lunch breaks for all participants. To help us plan accor
 
 - **09:00 - 09:30:** *Welcome Coffee*
 - **09:30 - 09:40:** Opening
-- **11:00 - 11:50:** [Laurent Younès](https://www.cis.jhu.edu/~younes/) -- Large deformation diffeomorphic metric mapping of measures (LDDMMM?): a review
+- **09:40 - 10:30:** [Laurent Younès](https://www.cis.jhu.edu/~younes/) -- Large deformation diffeomorphic metric mapping of measures (LDDMMM?): a review
 - **10:30 - 11:00:** *Pause*
-- **09:40 - 10:30:** [Michael I. Miller](https://www.bme.jhu.edu/people/faculty/michael-i-miller/) -- Models for petascale neuroimaging
+- **11:00 - 11:50:** [Michael I. Miller](https://www.bme.jhu.edu/people/faculty/michael-i-miller/) -- Models for petascale neuroimaging
 - **11:50 - 12:40:** [Peter Michor](https://www.mat.univie.ac.at/~michor/listpubl.html) -- Trouvé groups: unbalanced Riemannian metric transport and the Wasserstein-Ebin metric
 
 *Lunch break*
@@ -48,7 +48,7 @@ We are pleased to offer lunch breaks for all participants. To help us plan accor
 - **14:00 - 14:50:** [Vianney Debavelaere](https://scholar.google.fr/citations?user=4o9y9LoAAAAJ&hl=en) and [Tom Boeken](https://www.aphp.fr/offre-de-soin/medecin/4064173/075/57)
 - **14:50 - 15:40:** 
 - **15:40 - 16:10:** *Pause*
-- **16:10 - 17:00:** [Xavier Pennec](https://www-sop.inria.fr/members/Xavier.Pennec/)
+- **16:10 - 17:00:** [Xavier Pennec](https://www-sop.inria.fr/members/Xavier.Pennec/) -- Flag Spaces for Geometric Statistics
 - **17:00 - 17:50:** [Jean-Michel Courty](https://www.lkb.fr/quantumtheory/people/jean-michel-courty/) and [François Sauvageot](http://smai.emath.fr/maddmaths/5/francois_sauvageot.html) -- Souvenirs d'apprentis sages
 
 
