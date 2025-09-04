@@ -1,3 +1,17 @@
+- speaker: Benjamin Charlier
+  affiliation: INRAE
+  url: https://miat.inrae.fr/bcharlier/
+  date: Tuesday, 16 September 2025
+  time: 12pm
+  location: >
+    the new Inria Paris centre (48 rue Barrault), in the cafeteria on the 3rd floor for lunch, and the room ??? for the presentation at 1pm.
+  title: Representing and Mapping 3D Imaging and Spatial-omics Data Simultaneously Across Scales with Image-Varifold
+  abstract: >
+    Advancements in imaging and molecular techniques enable the collection of subcellular-scale data. Diversity in measured features, resolution, and physical scope of capture across technologies and experimental protocols pose numerous challenges to integrating data with reference coordinate systems and across scales.     
+    This presentation describes a collection of technologies, using LDDMM (non rigid deformation) and varifold-based distance (to compare data), that we have developed for mapping data across scales and modalities, such as genes to tissues (2D or 3D).    
+    The dedicated `xmodmap` python package include (i) an explicit censored data representation for the partial matching problem mapping whole brains to subsampled subvolumes, (ii) a multi, scale-space optimization technology for generating resampling grids optimized to represent spatial geometry at fixed complexities, and (iii) mutual-information based functional feature selection.     
+    Finally, we will discuss practical strategies for managing peta-scale data, including tiling, sharding (multi-GPU processing), and multi-scale approaches.
+
 - speaker: Anton François
   affiliation: ENS Paris-Saclay
   url: https://antonfrancois.github.io/
