@@ -1,3 +1,16 @@
+- speaker: Jean-Marc Mercier
+  affiliation: MPG-Partners
+  url: https://arxiv.org/abs/2402.07084
+  date: Tuesday, 30 September 2025
+  time: 12pm
+  location: >
+    the new Inria Paris centre (48 rue Barrault), in the cafeteria on the 3rd floor for lunch, and in the Paul Erdős room (A115) for the presentation at 1pm.
+  title: Reproducing kernel methods for machine learning, PDEs, and statistics with Python
+  abstract: >
+    This monograph offers an introduction to a collection of numerical algorithms implemented in the library CodPy (an acronym that stands for the Curse Of Dimensionality in PYthon), which has found widespread applications across various areas, including machine learning, statistics, and computational physics. We develop here a strategy based on the theory of reproducing kernel Hilbert spaces (RKHS) and the theory of optimal transport. Initially designed for mathematical finance, this library has since been enhanced and broadened to be applicable to problems arising in engineering and industry. In order to present the general principles and techniques employed in CodPy and its applications, we have structured this monograph into two main parts. First of all, we focus on the fundamental principles of kernel-based representations of data and solutions, also that the presentation therein is supplemented with illustrative examples only. Next, we discuss the application of these principles to many classes of concrete problems, spanning from the numerical approximation of partial differential equations to (supervised, unsupervised) machine learning, extending to generative methods with a focus on stochastic aspects. 
+  code: https://codpybook-read-the-docs.readthedocs.io/en/latest/
+
+
 - speaker: Benjamin Charlier
   affiliation: INRAE
   url: https://miat.inrae.fr/bcharlier/
@@ -22,6 +35,7 @@
   title: Longitudinal MRI registration -- Implementing metamorphoses on the simplex with a focus on GPU-memory optimisation
   abstract: >
     In this presentation, we will discuss my post-doctoral project, which aims to perform longitudinal registration of brains with glioblastomas on MRI images with values in the simplex - seen as probability vectors. We will begin by describing the metamorphoses on the simplex and their implementation using the Fisher-Rao metric. We will also detail the optimisation work required to perform these calculations on images of adequate resolution. Our approach includes the use of Torch checkpoints as well as a review of the L-BFGS algorithm. Finally, as a perspective, we will discuss a data-driven strategy to achieve these registrations on these specific data.
+  video: https://www.youtube.com/watch?v=YlCmduHODZQ&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=28
 
 
 - speaker: Rayane Mouhli
@@ -34,6 +48,7 @@
   title: Decorrelation of vector fields with speed of varifolds
   abstract: >
     To perform a registration task, various types of diffeomorphic deformations can be combined to leverage their intrinsic properties (e.g., scales, linearity) or to incorporate prior knowledge (e.g., modules). To have a better interpretability of the model and to prevent the overlapping of the two types of deformations, their action on a shape have to be as "orthogonal" as possible. We introduce a quantification of the correlation between two deformations as the difference of the speeds of a varifold associated to a shape in the direction of both vector fields representing the two deformations.
+  video: https://www.youtube.com/watch?v=5bU_OOkXbFA&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=27
 
 
 - speaker: Olivier Couture
@@ -49,6 +64,7 @@
     Ultrasound localization microscopy (ULM) is a technique that provides very high-resolution depth imaging in tissues. It relies on clinical contrast agents, called microbubbles, which are isolated and localized at the micrometer scale in ultrasound images. Tracking their trajectories can provide blood speeds in the microcirculation. This technique has been demonstrated in the brain (Errico et al. Nature 2015), as well as in the kidney, tumors, peripheral vessels and lymph nodes, in both humans and animals (see the review in Couture et al. IEEE UFFC 2018, Christensen-Jeffries et al. UMB 2020 or Song et al. "Super-resolution ultrasound microvascular imaging: Is it ready for clinical use?" 2023).
     During this presentation, we will describe recent advances in ULM. In particular, we will show the three-dimensional reconstruction of the rat brain hemodynamics at the micrometer scale. A full-brain angiography at this scale will also be presented. We will discuss its application for the differentiation of strokes and its transfer to the clinical domain through intermediate experiments on the sheep brain and two-dimensional ULM with clinical ultrasound devices. All these developments aim to create a new imaging tool for stroke patients in intensive care, potentially reducing treatment time for ischemic patients.
     We will also describe recent developments in kidney imaging, where ULM offers new perspectives on the functional units of the organ, namely the nephron and its glomeruli, in both humans and animals. In the future, ULM could enable depth angiography at a scale currently only achievable through invasive modalities.
+  video: https://www.youtube.com/watch?v=seVukJ37AEc&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=26
 
 
 
@@ -99,6 +115,7 @@
   title: On the global convergence of Wasserstein gradient flow of the Coulomb discrepancy
   abstract: >
     In this work, we study the Wasserstein gradient flow of the Riesz energy defined on the space of probability measures. The Riesz kernels define a quadratic functional on the space of measure which is not in general geodesically convex in the Wasserstein geometry, therefore one cannot conclude to global convergence of the Wasserstein gradient flow using standard arguments. Our main result is the exponential convergence of the flow to the minimizer on a closed Riemannian manifold under the condition that the logarithm of the source and target measures are Hölder continuous. To this goal, we first prove that the Polyak-Lojasiewicz inequality is satisfied for sufficiently regular solutions. The key regularity result is the global in-time existence of Hölder solutions if the initial and target data are Hölder continuous, proven either in Euclidean space or on a closed Riemannian manifold. For general measures, we prove using flow interchange techniques that there is no local minima other than the global one for the Coulomb kernel. In fact, we prove that a Lagrangian critical point of the functional for the Coulomb (or Energy distance) kernel is equal to the target everywhere except on singular sets with empty interior. In addition, singular enough measures cannot be critical points. [Link to the preprint.](https://hal.science/hal-04282762v1)
+  video: https://www.youtube.com/watch?v=tkk1QPtMTN4&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=23
 
 - speaker: Julien Tierny
   affiliation: CNRS, Sorbonne University, École Polytechnique
