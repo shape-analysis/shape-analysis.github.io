@@ -57,6 +57,8 @@
     This presentation describes a collection of technologies, using LDDMM (non rigid deformation) and varifold-based distance (to compare data), that we have developed for mapping data across scales and modalities, such as genes to tissues (2D or 3D).    
     The dedicated `xmodmap` python package include (i) an explicit censored data representation for the partial matching problem mapping whole brains to subsampled subvolumes, (ii) a multi, scale-space optimization technology for generating resampling grids optimized to represent spatial geometry at fixed complexities, and (iii) mutual-information based functional feature selection.     
     Finally, we will discuss practical strategies for managing peta-scale data, including tiling, sharding (multi-GPU processing), and multi-scale approaches.
+  slides: https://miat.inrae.fr/bcharlier/talks/files/pres_imt.pdf
+  video: https://www.youtube.com/watch?v=saRC-udHi5A&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=29
 
 - speaker: Anton François
   affiliation: ENS Paris-Saclay
