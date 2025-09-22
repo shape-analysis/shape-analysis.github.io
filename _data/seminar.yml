@@ -1,6 +1,6 @@
-- speaker: TBA
-  affiliation: TBA
-  url: .
+- speaker: Etienne Corman
+  affiliation: CNRS, LORIA
+  url: https://members.loria.fr/ECorman/
   date: Tuesday, 9 December 2025
   time: 12pm
   location: >
@@ -9,9 +9,9 @@
   abstract: >
     TBA.
 
-- speaker: TBA
-  affiliation: TBA
-  url: .
+- speaker: Sylvain Arguillère
+  affiliation: CNRS, Laboratoire Paul Painlevé
+  url: https://cv.hal.science/sylvain-arguillere
   date: Tuesday, 18 November 2025
   time: 12pm
   location: >
@@ -31,7 +31,7 @@
   abstract: >
     TBA.
 
-- speaker: Jean-Marc Mercier
+- speaker: Jean-Marc Mercier and Max Aguirre
   affiliation: MPG-Partners
   url: https://arxiv.org/abs/2402.07084
   date: Tuesday, 30 September 2025
