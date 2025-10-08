@@ -20,16 +20,16 @@
   abstract: >
     TBA.
 
-- speaker: TBA
-  affiliation: TBA
-  url: .
+- speaker: Nathan Kessler
+  affiliation: Centre Borelli, ENS Paris-Saclay
+  url: https://www.linkedin.com/in/nathan-kessler-79259b221/?originalSubdomain=fr
   date: Tuesday, 28 October 2025
   time: 12pm
   location: >
     the new Inria Paris centre (48 rue Barrault), in the cafeteria on the 3rd floor for lunch, and in the Anita Borg room (A116) for the presentation at 1pm.
-  title: TBA
+  title: Normalizing Diffusion Kernels with Optimal Transport
   abstract: >
-    TBA.
+    Smoothing a signal based on local neighborhoods is a core operation in machine learning and geometry processing. On well-structured domains such as vector spaces and manifolds, the Laplace operator derived from differential geometry offers a principled approach to smoothing via heat diffusion, with strong theoretical guarantees. However, constructing such Laplacians requires a carefully defined domain structure, which is not always available. Most practitioners thus rely on simple convolution kernels and message-passing layers, which are biased against the boundaries of the domain. We bridge this gap by introducing a broad class of smoothing operators, derived from general similarity or adjacency matrices, and demonstrate that they can be normalized into diffusion-like operators that inherit desirable properties from Laplacians. Our approach relies on a symmetric variant of the Sinkhorn algorithm, which rescales positive smoothing operators to match the structural behavior of heat diffusion. This construction enables Laplacian-like smoothing and processing of irregular data such as point clouds, sparse voxel grids or mixture of Gaussians. We show that the resulting operators not only approximate heat diffusion but also retain spectral information from the Laplacian itself, with applications to shape analysis and matching. 
 
 - speaker: Jean-Marc Mercier and Max Aguirre
   affiliation: MPG-Partners
