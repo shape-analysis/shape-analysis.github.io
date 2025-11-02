@@ -30,6 +30,7 @@
   title: Normalizing Diffusion Kernels with Optimal Transport
   abstract: >
     Smoothing a signal based on local neighborhoods is a core operation in machine learning and geometry processing. On well-structured domains such as vector spaces and manifolds, the Laplace operator derived from differential geometry offers a principled approach to smoothing via heat diffusion, with strong theoretical guarantees. However, constructing such Laplacians requires a carefully defined domain structure, which is not always available. Most practitioners thus rely on simple convolution kernels and message-passing layers, which are biased against the boundaries of the domain. We bridge this gap by introducing a broad class of smoothing operators, derived from general similarity or adjacency matrices, and demonstrate that they can be normalized into diffusion-like operators that inherit desirable properties from Laplacians. Our approach relies on a symmetric variant of the Sinkhorn algorithm, which rescales positive smoothing operators to match the structural behavior of heat diffusion. This construction enables Laplacian-like smoothing and processing of irregular data such as point clouds, sparse voxel grids or mixture of Gaussians. We show that the resulting operators not only approximate heat diffusion but also retain spectral information from the Laplacian itself, with applications to shape analysis and matching. 
+  video: https://www.youtube.com/watch?v=cCe4l-N4A_g&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=31
 
 - speaker: Jean-Marc Mercier and Max Aguirre
   affiliation: MPG-Partners
@@ -42,6 +43,7 @@
   abstract: >
     This monograph offers an introduction to a collection of numerical algorithms implemented in the library CodPy (an acronym that stands for the Curse Of Dimensionality in PYthon), which has found widespread applications across various areas, including machine learning, statistics, and computational physics. We develop here a strategy based on the theory of reproducing kernel Hilbert spaces (RKHS) and the theory of optimal transport. Initially designed for mathematical finance, this library has since been enhanced and broadened to be applicable to problems arising in engineering and industry. In order to present the general principles and techniques employed in CodPy and its applications, we have structured this monograph into two main parts. First of all, we focus on the fundamental principles of kernel-based representations of data and solutions, also that the presentation therein is supplemented with illustrative examples only. Next, we discuss the application of these principles to many classes of concrete problems, spanning from the numerical approximation of partial differential equations to (supervised, unsupervised) machine learning, extending to generative methods with a focus on stochastic aspects. 
   code: https://codpybook-read-the-docs.readthedocs.io/en/latest/
+  video: https://www.youtube.com/watch?v=8WjaqA7x_6A&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=30
 
 
 - speaker: Benjamin Charlier
