@@ -1,13 +1,25 @@
-- speaker: Etienne Corman
-  affiliation: CNRS, LORIA
-  url: https://members.loria.fr/ECorman/
+- speaker: Antoine Diez
+  affiliation: RIKEN, iTHEMS
+  url: https://antoinediez.gitlab.io/
+  date: Tuesday, 6 January 2025
+  time: 12pm
+  location: >
+    the new Inria Paris centre (48 rue Barrault), in the cafeteria on the 3rd floor for lunch, and in the Paul Erdős room (A115) for the presentation at 1.30pm.
+  title: Multicellular simulations with shape and volume constraints using optimal transport
+  abstract: >
+    Many living and physical systems such as cell aggregates, tissues or bacterial colonies behave as unconventional systems of particles that are strongly constrained by volume exclusion and shape interactions. Understanding how these constraints lead to macroscopic self-organized structures is a fundamental question in e.g. developmental biology. To this end, various types of computational models have been developed. Here, we introduce a new framework based on optimal transport theory to model particle systems with arbitrary dynamical shapes and deformability properties. Our method builds upon the pioneering work of Brenier on incompressible fluids and its recent applications to materials science. It lets us specify the shapes and volumes of individual cells and supports a wide range of interaction mechanisms, while automatically taking care of the volume exclusion constraint at an affordable numerical cost. We showcase the versatility of this approach by reproducing several classical systems in computational biology. Our Python code is freely available at https://iceshot.readthedocs.io
+
+
+- speaker: Guillaume Houry
+  affiliation: INRIA Paris, HeKA team
+  url: https://www.linkedin.com/in/guillaume-houry-0b7644194/
   date: Tuesday, 9 December 2025
   time: 12pm
   location: >
-    the new Inria Paris centre (48 rue Barrault), in the cafeteria on the 3rd floor for lunch, and in the Paul Erdős room (A115) for the presentation at 1pm.
-  title: TBA
+    the new Inria Paris centre (48 rue Barrault), in the cafeteria on the 3rd floor for lunch, and in the Paul Erdős room (A115) for the presentation at 1.30pm.
+  title: Untangling vascular trees for surgery and interventional radiology
   abstract: >
-    TBA.
+    The diffusion of minimally invasive, endovascular interventions motivates the development of visualization methods for complex vascular networks. We propose a planar representation of blood vessel trees which preserves the properties that are most relevant to catheter navigation: topology, length and curvature. Taking as input a three-dimensional digital angiography, our algorithm produces a faithful two-dimensional map of the patient's vessels within a few seconds. To this end, we propose optimized implementations of standard morphological filters and a new recursive embedding algorithm that preserves the global orientation of the vascular network. We showcase our method on peroperative images of the brain, pelvic and knee artery networks. On the clinical side, our method simplifies the choice of devices prior to and during the intervention. This lowers the risk of failure during navigation or device deployment and may help to reduce the gap between expert and common intervention centers. From a research perspective, our method simulates the cadaveric display of artery trees from anatomical dissections. This opens the door to large population studies on the branching patterns and tortuosity of fine human blood vessels. Our code is released under the permissive MIT license as part of the scikit-shapes Python library.
 
 - speaker: Sylvain Arguillère
   affiliation: CNRS, Laboratoire Paul Painlevé
@@ -18,7 +30,7 @@
     the new Inria Paris centre (48 rue Barrault), in the Café Circus restaurant (204 rue de Tolbiac) at noon for lunch, and in the Paul Erdős room (A115) for the presentation at 1.30pm.
   title: Reparametrization invariance in geometric deep learning and applications to human body and face deformation
   abstract: >
-    TBA.
+    Sylvain will present his work on shape autoencoders and interpolations in latent spaces.
 
 - speaker: Nathan Kessler
   affiliation: Centre Borelli, ENS Paris-Saclay
