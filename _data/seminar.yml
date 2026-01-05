@@ -20,6 +20,7 @@
   title: Untangling vascular trees for surgery and interventional radiology
   abstract: >
     The diffusion of minimally invasive, endovascular interventions motivates the development of visualization methods for complex vascular networks. We propose a planar representation of blood vessel trees which preserves the properties that are most relevant to catheter navigation: topology, length and curvature. Taking as input a three-dimensional digital angiography, our algorithm produces a faithful two-dimensional map of the patient's vessels within a few seconds. To this end, we propose optimized implementations of standard morphological filters and a new recursive embedding algorithm that preserves the global orientation of the vascular network. We showcase our method on peroperative images of the brain, pelvic and knee artery networks. On the clinical side, our method simplifies the choice of devices prior to and during the intervention. This lowers the risk of failure during navigation or device deployment and may help to reduce the gap between expert and common intervention centers. From a research perspective, our method simulates the cadaveric display of artery trees from anatomical dissections. This opens the door to large population studies on the branching patterns and tortuosity of fine human blood vessels. Our code is released under the permissive MIT license as part of the scikit-shapes Python library.
+  video: https://www.youtube.com/watch?v=_tDxDRlwvHA&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=33
 
 - speaker: Sylvain Arguillère
   affiliation: CNRS, Laboratoire Paul Painlevé
@@ -31,6 +32,7 @@
   title: Reparametrization invariance in geometric deep learning and applications to human body and face deformation
   abstract: >
     Sylvain will present his work on shape autoencoders and interpolations in latent spaces.
+  video: https://www.youtube.com/watch?v=o3Vj_TCxjQI&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=32
 
 - speaker: Nathan Kessler
   affiliation: Centre Borelli, ENS Paris-Saclay
