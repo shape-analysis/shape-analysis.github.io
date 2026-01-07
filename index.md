@@ -28,7 +28,10 @@ Every three weeks, we organize an in-person seminar in Paris around noon:
   <hr>
   {% endif %}
 
-   <h5>{{ oneitem.date }} &#8212; {{ oneitem.title }}</h5>
+   <h5 id="{{ oneitem.title | slugify }}">
+      <a href="#{{ oneitem.title | slugify }}" style="text-decoration:none;color:inherit;"> {{ oneitem.date }} &#8212; {{ oneitem.title }}</a>
+   </h5>
+
   <p>
 
   <a href="{{ oneitem.url }}">{{ oneitem.speaker }}</a>  ({{ oneitem.affiliation }}) 
