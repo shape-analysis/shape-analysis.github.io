@@ -4,7 +4,7 @@
   date: Tuesday, 7 April 2026
   time: 12pm
   location: >
-    the new Inria Paris centre (48 rue Barrault).
+    the new Inria Paris centre (48 rue Barrault), in the cafeteria on the 3rd floor for lunch, and in the Paul Erdős room (A115) for the presentation at 1.30pm.
   title: TBA
   abstract: >
     TBA
@@ -34,16 +34,19 @@
     TBA
 
 
-- speaker: TBA
-  affiliation: TBA
-  url: https://shape-analysis.github.io/
+- speaker: François-Xavier Vialard
+  affiliation: Université Gustave Eiffel
+  url: http://angkor.univ-mlv.fr/~vialard/
   date: Tuesday, 27 January 2026
   time: 12pm
   location: >
     [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room 15-16.309 (between towers 15 and 16, on the 3rd floor), at noon for the lunch buffet and at 1.30pm for the presentation.
-  title: Working group on the minus distance kernel
+  title: A discussion of the minus distance kernel
   abstract: >
-    TBA
+    Methods based on the Gaussian kernel are popular in machine learning and imaging sciences.
+    But over the last decade, several works have highlighted the "minus distance" kernel $k(x,y) = -\|x-y\|$ as a better baseline in many settings: this formula does not rely on a scale parameter, can be implemented efficiently via random 1D projections and defines a gradient flow with global convergence properties. It induces the well-known "Energy Distance" in statistics and "thin plate splines" model for 3D shape registration. On the other hand, technical difficulties arise when one must consider the splitting of particle masses or distributions with varying total masses.
+    So is the "minus distance" kernel ready for widespread use in shape analysis?
+    To answer this question, we will begin with a 20-minute presentation by François-Xavier Vialard, followed by an open discussion moderated by Joan Glaunès.
 
 
 - speaker: Antoine Diez
@@ -56,6 +59,7 @@
   title: Multicellular simulations with shape and volume constraints using optimal transport
   abstract: >
     Many living and physical systems such as cell aggregates, tissues or bacterial colonies behave as unconventional systems of particles that are strongly constrained by volume exclusion and shape interactions. Understanding how these constraints lead to macroscopic self-organized structures is a fundamental question in e.g. developmental biology. To this end, various types of computational models have been developed. Here, we introduce a new framework based on optimal transport theory to model particle systems with arbitrary dynamical shapes and deformability properties. Our method builds upon the pioneering work of Brenier on incompressible fluids and its recent applications to materials science. It lets us specify the shapes and volumes of individual cells and supports a wide range of interaction mechanisms, while automatically taking care of the volume exclusion constraint at an affordable numerical cost. We showcase the versatility of this approach by reproducing several classical systems in computational biology. Our Python code is freely available at https://iceshot.readthedocs.io
+  video: https://www.youtube.com/watch?v=4er0PV0nEX8&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=34
 
 
 - speaker: Guillaume Houry
