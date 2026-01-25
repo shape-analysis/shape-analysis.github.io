@@ -1,13 +1,13 @@
-- speaker: TBA
-  affiliation: TBA
-  url: https://shape-analysis.github.io/
+- speaker: Cyprien Plateau Holleville
+  affiliation: Parma team, Inria Saclay
+  url: https://plathc.github.io/
   date: Tuesday, 7 April 2026
   time: 12pm
   location: >
     the new Inria Paris centre (48 rue Barrault), in the cafeteria on the 3rd floor for lunch, and in the Paul Erdős room (A115) for the presentation at 1.30pm.
-  title: TBA
+  title: Efficient computation of geometry for structural analysis of large molecular systems
   abstract: >
-    TBA
+    The Solvent-Excluded Surface (SES) is an essential representation of molecules which is massively used in molecular modeling and drug discovery since it represents the interacting surface between molecules. Based on its properties, it supports the visualization of both large scale shapes and details of molecules. While several methods targeted its computation, the ability to process large molecular structures to address the introduction of big complex analysis while leveraging the massively parallel architecture of GPUs has remained a challenge. This is mostly caused by the need for consequent memory allocation or by the complexity of the parallelization of its processing. In this paper, we leverage the last theoretical advances made for the depiction of the SES to provide fast analytical computation with low impact on memory. We show that our method is able to compute the complete surface while handling large molecular complexes with competitive computation time costs compared to previous works. 
 
 
 - speaker: TBA
@@ -22,16 +22,16 @@
     TBA
 
 
-- speaker: TBA
-  affiliation: TBA
+- speaker: Johannes Hertrich
+  affiliation: ENS Paris
   url: https://shape-analysis.github.io/
   date: Tuesday, 17 February 2026
   time: 12pm
   location: >
     the seminar room ("Salle du conseil - Turing space") of the MAP5 laboratory, 45 rue des Saints-Pères in Paris (7th floor) - [detailed path](https://map5.mi.parisdescartes.fr/accueil/acces-contact/).
-  title: TBA
+  title: Numerical Methods for Kernel Slicing
   abstract: >
-    TBA
+    Kernels are key in machine learning for modeling interactions. Unfortunately, brute-force computation of the related kernel sums scales quadratically with the number of samples. Recent Fourier-slicing methods lead to an improved linear complexity, provided that the kernel can be sliced and its Fourier coefficients are known. To obtain these coefficients, we view the slicing relation as an inverse problem and present two algorithms for their recovery. Extensive numerical experiments demonstrate the speed and accuracy of our methods. 
 
 
 - speaker: François-Xavier Vialard
