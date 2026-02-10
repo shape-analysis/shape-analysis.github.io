@@ -10,8 +10,8 @@
     The Solvent-Excluded Surface (SES) is an essential representation of molecules which is massively used in molecular modeling and drug discovery since it represents the interacting surface between molecules. Based on its properties, it supports the visualization of both large scale shapes and details of molecules. While several methods targeted its computation, the ability to process large molecular structures to address the introduction of big complex analysis while leveraging the massively parallel architecture of GPUs has remained a challenge. This is mostly caused by the need for consequent memory allocation or by the complexity of the parallelization of its processing. In this paper, we leverage the last theoretical advances made for the depiction of the SES to provide fast analytical computation with low impact on memory. We show that our method is able to compute the complete surface while handling large molecular complexes with competitive computation time costs compared to previous works. 
 
 
-- speaker: TBA
-  affiliation: TBA
+- speaker: Mark Gillespie
+  affiliation: INRIA Saclay
   url: https://shape-analysis.github.io/
   date: Tuesday, 17 March 2026
   time: 12pm
