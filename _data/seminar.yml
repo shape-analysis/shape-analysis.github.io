@@ -1,3 +1,15 @@
+- speaker: Mark Gillespie
+  affiliation: INRIA Saclay
+  url: https://markjgillespie.com/
+  date: Tuesday, 28 April 2026
+  time: 12pm
+  location: >
+    TBA.
+  title: TBA
+  abstract: >
+    TBA
+
+
 - speaker: Cyprien Plateau Holleville
   affiliation: Inria Saclay, Parma team
   url: https://plathc.github.io/
@@ -10,16 +22,16 @@
     The Solvent-Excluded Surface (SES) is an essential representation of molecules which is massively used in molecular modeling and drug discovery since it represents the interacting surface between molecules. Based on its properties, it supports the visualization of both large scale shapes and details of molecules. While several methods targeted its computation, the ability to process large molecular structures to address the introduction of big complex analysis while leveraging the massively parallel architecture of GPUs has remained a challenge. This is mostly caused by the need for consequent memory allocation or by the complexity of the parallelization of its processing. In this paper, we leverage the last theoretical advances made for the depiction of the SES to provide fast analytical computation with low impact on memory. We show that our method is able to compute the complete surface while handling large molecular complexes with competitive computation time costs compared to previous works. 
 
 
-- speaker: Mark Gillespie
-  affiliation: INRIA Saclay
-  url: https://shape-analysis.github.io/
+- speaker: Barbara Gris
+  affiliation: CNRS, LJLL
+  url: https://gris.perso.math.cnrs.fr/fr/
   date: Tuesday, 17 March 2026
   time: 12pm
   location: >
     [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room 15-16.309 (between towers 15 and 16, on the 3rd floor), at noon for the lunch buffet and at 1.30pm for the presentation.
-  title: TBA
+  title: Constrained deformations for shape registration: an introduction the the Imodal library
   abstract: >
-    TBA
+    One of the goals of shape analysis is to model and characterise shape evolution. We focus on methods where this evolution is modeled by the action of a time-dependent diffeomorphism, which is characterised by its time-derivatives: vector fields. Reconstructing the evolution of a shape from observations then amounts to determining an optimal path of vector fields whose flow of diffeomorphisms deforms the initial shape in accordance with the observations. However, if the space of considered vector fields is not constrained, optimal paths may be inaccurate from a modeling point of view. To overcome this problem, the notion of deformation module allows to incorporate prior information from the data into the set of considered deformations and the associated metric. I will present this generic framework as well as the Python library IMODAL, which allows to perform registration using such structured deformations.
 
 
 - speaker: Johannes Hertrich
