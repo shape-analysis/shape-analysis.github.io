@@ -29,7 +29,7 @@
   time: 12pm
   location: >
     [Jussieu](https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/accueil-vie-pratique/plan-du-campus) - room 15-16.309 (between towers 15 and 16, on the 3rd floor), at noon for the lunch buffet and at 1.30pm for the presentation.
-  title: Constrained deformations for shape registration: an introduction the the Imodal library
+  title: Constrained deformations for shape registration - an introduction the the Imodal library
   abstract: >
     One of the goals of shape analysis is to model and characterise shape evolution. We focus on methods where this evolution is modeled by the action of a time-dependent diffeomorphism, which is characterised by its time-derivatives: vector fields. Reconstructing the evolution of a shape from observations then amounts to determining an optimal path of vector fields whose flow of diffeomorphisms deforms the initial shape in accordance with the observations. However, if the space of considered vector fields is not constrained, optimal paths may be inaccurate from a modeling point of view. To overcome this problem, the notion of deformation module allows to incorporate prior information from the data into the set of considered deformations and the associated metric. I will present this generic framework as well as the Python library IMODAL, which allows to perform registration using such structured deformations.
 
