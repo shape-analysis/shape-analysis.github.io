@@ -1,3 +1,35 @@
+- speaker: Hadrien Bigo-Balland
+  affiliation: INRIA Paris, HeKA team
+  url: https://www.hadrienbigoballand.com/
+  date: Tuesday, 26 May 2026
+  time: 12pm
+  location: >
+    the seminar room ("Salle du conseil - Turing space") of the MAP5 laboratory, 45 rue des Saints-Pères in Paris (7th floor) - [detailed path](https://map5.mi.parisdescartes.fr/accueil/acces-contact/). Presentation starts at 1.30pm.
+  title: Optimal steps for fast diffeomorphic shape registration
+  abstract: >
+    This paper presents a fast, learning-free registration method
+    tailored to clinical constraints. While shape registration is fundamental 
+    to medical imaging, existing techniques often force a trade-off between 
+    computational scalability and strict topology preservation. 
+    Current diffeomorphic methods are either computationally expensive or 
+    demand extensive pre-processing, such as training neural networks on large
+    datasets. This renders them impractical for clinical studies, which often
+    rely on limited cohorts. Image-based methods also require large memory
+    banks to process high-resolution data, while surface-based approaches
+    have received less attention in the deep learning era. In this context,
+    we propose a principled registration algorithm that alternates between a
+    feature-aware matching scheme, a conjugate gradient solver and a diffeomorphic 
+    shooting step. Our pipeline can handle point clouds, curves and
+    surface meshes. It is compatible with clinical workflows and can register
+    a pair of shapes sampled with 10k points each in one second, without
+    landmarks, pre-alignment, or supervision. We demonstrate consistent results 
+    on several anatomical structures and showcase the efficiency of our
+    method by computing an atlas from hundreds of complex vertebral scans
+    in a few minutes. Upon publication in September 2026, our code will be 
+    released under the permissive MIT license at: scikit-shapes.github.io.
+
+
+
 - speaker: Mark Gillespie
   affiliation: INRIA Saclay
   url: https://markjgillespie.com/
