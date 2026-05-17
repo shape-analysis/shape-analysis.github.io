@@ -1,3 +1,14 @@
+- speaker: Laurent Cohen
+  affiliation: CNRS, Université Paris Dauphine, CEREMADE
+  url: https://www.ceremade.dauphine.fr/~cohen/
+  date: Tuesday, 23 June 2026
+  time: 12pm
+  location: >
+    the seminar room ("Salle du conseil - Turing space") of the MAP5 laboratory, 45 rue des Saints-Pères in Paris (7th floor) - [detailed path](https://map5.mi.parisdescartes.fr/accueil/acces-contact/). Presentation starts at 1.30pm.
+  title: TBA
+  abstract: TBA
+
+
 - speaker: Hadrien Bigo-Balland
   affiliation: INRIA Paris, HeKA team
   url: https://www.hadrienbigoballand.com/
@@ -63,6 +74,7 @@
     state-of-the-art correspondence algorithms and show that our implicit
     representation offers improved stability and naturally supports
     constraints that are difficult to enforce with explicit map representations.
+  video: https://www.youtube.com/watch?v=1lvp77S6B-4&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=38
 
 
 - speaker: Cyprien Plateau-Holleville
