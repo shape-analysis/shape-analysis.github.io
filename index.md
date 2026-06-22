@@ -91,7 +91,7 @@ A calendar feed of the seminar is available for subscription. Simply add this <a
 
 ### Organizers
 
-- [Benjamin Charlier](https://imag.umontpellier.fr/~charlier/) (Université de Montpellier).
+- [Benjamin Charlier](https://miat.inrae.fr/bcharlier/) (INRAE).
 - [Jean Feydy](https://www.jeanfeydy.com/) (INRIA).
 - [Joan Glaunès](https://helios2.mi.parisdescartes.fr/~glaunes/) (Université Paris-Cité).
 - [Barbara Gris](http://gris.perso.math.cnrs.fr/) (CNRS).
