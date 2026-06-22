@@ -4,9 +4,10 @@
   date: Tuesday, 30 June 2026
   time: 12pm
   location: >
-    the seminar room ("Salle du conseil - Turing space") of the MAP5 laboratory, 45 rue des Saints-Pères in Paris (7th floor) - [detailed path](https://map5.mi.parisdescartes.fr/accueil/acces-contact/). Presentation starts at 1.30pm.
-  title: TBA
-  abstract: TBA
+    the seminar room ("Salle du conseil - Turing space") of the MAP5 laboratory, 45 rue des Saints-Pères in Paris (7th floor) - [detailed path](https://map5.mi.parisdescartes.fr/accueil/acces-contact/). Presentation starts at 1pm.
+  title: Fast marching and front propagation for image segmentation
+  abstract: >
+    Minimal paths have been used for long as an interactive tool to find contours or segment tubular and tree structures, like vessels in medical images. The user usually provides start and end points on the image and gets the minimal path as output, as a cost minimizing curve. These minimal paths correspond to minimal geodesics according to some relevant metric defined on the image domain. Finding geodesic distance and geodesic paths can be solved by the Eikonal equation using the fast and efficient Fast Marching method. Minimal paths are a way to find the global minimum of a simplified active contour energy. In the past years, we have extended the minimal path methods with asymmetric Randers Metrics to cover all kinds of active contour energy terms, as well as segmentation by front propagation. For example a way to penalize the curvature in the framework of geodesic minimal paths was introduced, leading to more natural results in vessel extraction. Recently, we introduced new methods combining the efficiency of minimal paths with CNN. CNN are used to generate relevant metrics adapted to a problem and the region of interest is obtained as the unit ball according to this metric. We will present various applications to medical image segmentation.
 
 
 - speaker: Hadrien Bigo-Balland
