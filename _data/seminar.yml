@@ -1,3 +1,21 @@
+- speaker: Robin Magnet and Anton François
+  affiliation: Université Paris-Cité and ENS Paris-Saclay
+  url: https://robinmagnet.github.io/
+  date: Tuesday, 10 November 2026
+  time: 12pm
+  location: >
+    the new Inria Paris centre (48 rue Barrault), in the cafeteria on the 3rd floor for lunch, and in the Paul Erdős room (A115) for the presentation at 1.30pm.
+  title: Some modern tools for the research workflow 
+  abstract: >
+    To launch the 2026-27 season of the shape seminar, we will hold a session about
+    some software tools that you could integrate in your research workflow
+    -- beyond LLMs.
+    Robin Magnet will show how to use Blender in a scientific context, 
+    while Anton François will present several tools to handle bibliography,
+    notes and scheduling. Hopefully, this will spark an interesting discussion.
+
+
+
 - speaker: Laurent Cohen
   affiliation: CNRS, Université Paris Dauphine, CEREMADE
   url: https://www.ceremade.dauphine.fr/~cohen/
